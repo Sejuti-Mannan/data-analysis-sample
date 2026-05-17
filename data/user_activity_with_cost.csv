@@ -1,0 +1,1501 @@
+user_id,film_id,film_name,watch_minutes,watch_date,country,cost_of_ticket
+U168,F065,The Hunger Games,13,2025-06-15,BR,10
+U036,F034,The Hobbit: The Battle of the Five Armies,9,2025-07-27,MX,10
+U150,F079,Fast & Furious,10,2025-08-02,IN,15
+U036,F068,The Hunger Games: Mockingjay - Part 2,89,2025-07-10,UK,8
+U221,F082,Fast Five,48,2025-04-14,CA,20
+U109,F045,Thor: Ragnarok,33,2025-03-22,IN,15
+U120,F068,The Hunger Games: Mockingjay - Part 2,23,2025-05-09,MX,12
+U003,F082,Fast Five,89,2025-08-27,MX,12
+U197,F048,Black Panther,29,2025-04-03,DE,15
+U117,F101,Wonder Woman,90,2025-05-12,MX,8
+U130,F082,Fast Five,25,2025-08-13,DE,8
+U130,F045,Thor: Ragnarok,21,2025-04-25,CA,10
+U042,F080,2 Fast 2 Furious,40,2025-07-19,US,15
+U126,F101,Wonder Woman,19,2025-04-03,FR,8
+U213,F012,Star Wars: The Last Jedi,59,2025-05-06,US,12
+U146,F005,Titanic,43,2025-03-27,BR,20
+U195,F080,2 Fast 2 Furious,17,2025-04-07,CA,15
+U243,F080,2 Fast 2 Furious,130,2025-04-17,DE,12
+U156,F079,Fast & Furious,27,2025-04-29,MX,8
+U177,F031,The Lord of the Rings: The Return of the King,52,2025-05-24,IN,15
+U167,F043,Captain America: Civil War,92,2025-06-26,MX,12
+U064,F034,The Hobbit: The Battle of the Five Armies,53,2025-03-22,FR,8
+U142,F034,The Hobbit: The Battle of the Five Armies,6,2025-08-03,AU,8
+U182,F011,Star Wars: The Force Awakens,117,2025-05-03,UK,20
+U221,F048,Black Panther,58,2025-03-24,MX,12
+U172,F065,The Hunger Games,24,2025-04-29,MX,15
+U240,F056,Frozen,7,2025-07-31,BR,15
+U122,F079,Fast & Furious,88,2025-04-23,UK,12
+U111,F043,Captain America: Civil War,44,2025-06-22,IN,12
+U187,F011,Star Wars: The Force Awakens,44,2025-08-25,UK,10
+U187,F048,Black Panther,118,2025-04-02,AU,10
+U138,F019,The Matrix Reloaded,97,2025-04-10,IN,10
+U119,F034,The Hobbit: The Battle of the Five Armies,8,2025-03-25,BR,15
+U220,F080,2 Fast 2 Furious,24,2025-03-31,US,12
+U139,F101,Wonder Woman,15,2025-03-29,AU,15
+U125,F065,The Hunger Games,82,2025-04-29,IN,10
+U043,F001,Avatar,2,2025-03-06,IN,12
+U201,F019,The Matrix Reloaded,53,2025-05-18,IN,12
+U188,F080,2 Fast 2 Furious,93,2025-08-22,BR,12
+U076,F031,The Lord of the Rings: The Return of the King,135,2025-03-20,JP,15
+U016,F048,Black Panther,24,2025-03-20,US,10
+U129,F068,The Hunger Games: Mockingjay - Part 2,91,2025-04-15,US,12
+U021,F066,The Hunger Games: Catching Fire,5,2025-03-23,JP,8
+U221,F034,The Hobbit: The Battle of the Five Armies,102,2025-06-17,UK,10
+U146,F034,The Hobbit: The Battle of the Five Armies,7,2025-08-01,JP,10
+U021,F079,Fast & Furious,28,2025-08-21,JP,12
+U081,F094,Deadpool 2,59,2025-04-27,FR,20
+U102,F098,Dune,11,2025-08-24,DE,12
+U238,F005,Titanic,16,2025-03-08,BR,15
+U145,F082,Fast Five,57,2025-03-24,MX,12
+U068,F098,Dune,89,2025-06-03,UK,12
+U095,F012,Star Wars: The Last Jedi,44,2025-04-15,BR,8
+U181,F012,Star Wars: The Last Jedi,51,2025-08-09,MX,10
+U210,F080,2 Fast 2 Furious,50,2025-05-21,UK,10
+U035,F094,Deadpool 2,10,2025-04-04,UK,10
+U040,F094,Deadpool 2,15,2025-05-17,JP,8
+U088,F031,The Lord of the Rings: The Return of the King,13,2025-08-28,DE,8
+U065,F011,Star Wars: The Force Awakens,117,2025-03-29,IN,10
+U012,F101,Wonder Woman,46,2025-05-30,CA,20
+U068,F066,The Hunger Games: Catching Fire,23,2025-06-27,MX,10
+U144,F101,Wonder Woman,33,2025-04-03,UK,10
+U177,F098,Dune,141,2025-07-23,US,8
+U150,F080,2 Fast 2 Furious,10,2025-04-12,IN,12
+U079,F043,Captain America: Civil War,40,2025-03-16,FR,10
+U064,F082,Fast Five,31,2025-06-04,MX,10
+U105,F045,Thor: Ragnarok,42,2025-04-14,AU,12
+U250,F066,The Hunger Games: Catching Fire,2,2025-06-19,US,8
+U237,F048,Black Panther,118,2025-06-19,AU,8
+U202,F082,Fast Five,89,2025-06-11,US,10
+U057,F031,The Lord of the Rings: The Return of the King,56,2025-07-01,FR,8
+U204,F034,The Hobbit: The Battle of the Five Armies,65,2025-05-02,US,8
+U103,F048,Black Panther,118,2025-05-16,UK,10
+U072,F043,Captain America: Civil War,56,2025-08-17,MX,15
+U216,F080,2 Fast 2 Furious,10,2025-05-29,US,12
+U249,F094,Deadpool 2,32,2025-04-20,JP,12
+U068,F011,Star Wars: The Force Awakens,54,2025-04-02,JP,10
+U187,F048,Black Panther,32,2025-06-25,JP,20
+U030,F001,Avatar,88,2025-07-31,AU,10
+U182,F079,Fast & Furious,112,2025-03-06,MX,8
+U138,F031,The Lord of the Rings: The Return of the King,135,2025-06-07,IN,12
+U171,F048,Black Panther,35,2025-08-12,FR,8
+U032,F012,Star Wars: The Last Jedi,5,2025-07-13,DE,10
+U084,F001,Avatar,132,2025-08-31,DE,12
+U050,F079,Fast & Furious,102,2025-08-23,IN,15
+U232,F066,The Hunger Games: Catching Fire,6,2025-08-10,JP,10
+U141,F101,Wonder Woman,107,2025-05-22,DE,15
+U202,F056,Frozen,98,2025-08-08,FR,20
+U114,F031,The Lord of the Rings: The Return of the King,49,2025-07-14,BR,8
+U246,F066,The Hunger Games: Catching Fire,41,2025-08-21,UK,10
+U170,F045,Thor: Ragnarok,22,2025-05-30,UK,10
+U193,F034,The Hobbit: The Battle of the Five Armies,3,2025-08-25,DE,10
+U051,F098,Dune,28,2025-03-12,US,10
+U122,F045,Thor: Ragnarok,73,2025-03-24,BR,20
+U162,F056,Frozen,2,2025-04-24,IN,15
+U063,F098,Dune,28,2025-08-20,US,12
+U221,F082,Fast Five,22,2025-06-22,AU,10
+U246,F068,The Hunger Games: Mockingjay - Part 2,40,2025-07-02,US,15
+U235,F082,Fast Five,89,2025-06-30,CA,20
+U171,F068,The Hunger Games: Mockingjay - Part 2,22,2025-07-27,JP,15
+U194,F019,The Matrix Reloaded,26,2025-08-09,MX,8
+U233,F080,2 Fast 2 Furious,86,2025-06-28,CA,12
+U122,F019,The Matrix Reloaded,37,2025-05-11,AU,8
+U071,F068,The Hunger Games: Mockingjay - Part 2,13,2025-07-08,AU,10
+U020,F012,Star Wars: The Last Jedi,26,2025-05-05,DE,8
+U229,F080,2 Fast 2 Furious,9,2025-03-26,CA,12
+U099,F098,Dune,13,2025-04-29,UK,12
+U085,F080,2 Fast 2 Furious,44,2025-07-03,IN,8
+U214,F079,Fast & Furious,30,2025-06-13,JP,10
+U006,F056,Frozen,98,2025-06-11,BR,10
+U091,F012,Star Wars: The Last Jedi,19,2025-06-13,IN,10
+U189,F080,2 Fast 2 Furious,56,2025-08-07,AU,8
+U070,F079,Fast & Furious,56,2025-07-08,US,10
+U172,F001,Avatar,2,2025-04-17,BR,15
+U160,F080,2 Fast 2 Furious,70,2025-03-12,IN,8
+U170,F101,Wonder Woman,10,2025-03-27,IN,8
+U119,F066,The Hunger Games: Catching Fire,93,2025-03-18,DE,10
+U055,F019,The Matrix Reloaded,10,2025-05-28,FR,20
+U098,F094,Deadpool 2,20,2025-06-21,DE,12
+U121,F101,Wonder Woman,4,2025-07-22,US,12
+U090,F034,The Hobbit: The Battle of the Five Armies,109,2025-08-19,UK,10
+U167,F011,Star Wars: The Force Awakens,40,2025-03-13,AU,12
+U006,F045,Thor: Ragnarok,40,2025-04-14,AU,8
+U172,F082,Fast Five,3,2025-07-28,AU,12
+U066,F043,Captain America: Civil War,63,2025-04-17,JP,20
+U192,F082,Fast Five,10,2025-04-16,DE,12
+U007,F012,Star Wars: The Last Jedi,87,2025-07-31,IN,15
+U184,F031,The Lord of the Rings: The Return of the King,15,2025-03-25,JP,15
+U161,F034,The Hobbit: The Battle of the Five Armies,11,2025-04-01,DE,8
+U154,F082,Fast Five,2,2025-07-28,US,20
+U110,F043,Captain America: Civil War,29,2025-03-23,MX,8
+U004,F079,Fast & Furious,46,2025-07-09,UK,12
+U093,F019,The Matrix Reloaded,4,2025-04-14,IN,8
+U134,F094,Deadpool 2,56,2025-08-10,MX,8
+U120,F079,Fast & Furious,33,2025-08-04,DE,10
+U063,F005,Titanic,46,2025-05-16,BR,10
+U119,F056,Frozen,28,2025-08-09,IN,10
+U127,F048,Black Panther,30,2025-04-21,BR,12
+U205,F094,Deadpool 2,30,2025-06-01,DE,8
+U180,F094,Deadpool 2,6,2025-07-26,US,8
+U049,F005,Titanic,12,2025-05-06,IN,12
+U195,F034,The Hobbit: The Battle of the Five Armies,107,2025-08-29,BR,10
+U126,F019,The Matrix Reloaded,126,2025-03-10,UK,15
+U104,F034,The Hobbit: The Battle of the Five Armies,25,2025-05-23,JP,12
+U142,F068,The Hunger Games: Mockingjay - Part 2,16,2025-06-02,IN,15
+U141,F048,Black Panther,60,2025-06-04,BR,12
+U065,F034,The Hobbit: The Battle of the Five Armies,28,2025-04-05,AU,10
+U191,F080,2 Fast 2 Furious,2,2025-08-29,CA,12
+U190,F065,The Hunger Games,10,2025-05-15,JP,10
+U135,F045,Thor: Ragnarok,56,2025-05-17,UK,10
+U076,F034,The Hobbit: The Battle of the Five Armies,58,2025-06-06,CA,15
+U182,F080,2 Fast 2 Furious,2,2025-04-07,DE,10
+U014,F080,2 Fast 2 Furious,16,2025-05-19,CA,15
+U193,F065,The Hunger Games,15,2025-04-01,US,15
+U121,F065,The Hunger Games,67,2025-06-26,FR,15
+U014,F094,Deadpool 2,2,2025-07-06,UK,20
+U103,F065,The Hunger Games,6,2025-03-24,JP,10
+U014,F098,Dune,113,2025-04-13,JP,10
+U022,F034,The Hobbit: The Battle of the Five Armies,10,2025-04-05,MX,12
+U156,F045,Thor: Ragnarok,47,2025-08-11,AU,10
+U098,F019,The Matrix Reloaded,17,2025-06-27,DE,12
+U110,F012,Star Wars: The Last Jedi,4,2025-07-29,JP,15
+U246,F082,Fast Five,12,2025-04-28,AU,12
+U021,F066,The Hunger Games: Catching Fire,59,2025-05-06,CA,10
+U041,F101,Wonder Woman,103,2025-06-18,BR,8
+U121,F012,Star Wars: The Last Jedi,77,2025-03-14,AU,10
+U073,F019,The Matrix Reloaded,31,2025-03-24,AU,8
+U202,F056,Frozen,54,2025-08-22,AU,15
+U140,F034,The Hobbit: The Battle of the Five Armies,12,2025-08-18,CA,10
+U212,F098,Dune,24,2025-03-24,US,8
+U079,F045,Thor: Ragnarok,90,2025-07-29,DE,8
+U120,F012,Star Wars: The Last Jedi,2,2025-09-01,IN,12
+U129,F080,2 Fast 2 Furious,5,2025-07-10,BR,12
+U011,F079,Fast & Furious,13,2025-05-27,JP,10
+U024,F034,The Hobbit: The Battle of the Five Armies,2,2025-08-25,JP,8
+U006,F094,Deadpool 2,7,2025-07-31,US,10
+U045,F065,The Hunger Games,52,2025-07-16,BR,10
+U047,F056,Frozen,26,2025-06-25,BR,12
+U121,F043,Captain America: Civil War,92,2025-06-18,FR,12
+U027,F066,The Hunger Games: Catching Fire,79,2025-05-29,IN,10
+U074,F001,Avatar,27,2025-07-24,US,10
+U081,F094,Deadpool 2,11,2025-05-27,UK,20
+U104,F068,The Hunger Games: Mockingjay - Part 2,25,2025-03-06,MX,10
+U014,F031,The Lord of the Rings: The Return of the King,60,2025-07-16,FR,12
+U128,F019,The Matrix Reloaded,19,2025-03-19,AU,8
+U034,F012,Star Wars: The Last Jedi,42,2025-06-26,BR,10
+U250,F045,Thor: Ragnarok,23,2025-05-06,CA,8
+U004,F080,2 Fast 2 Furious,52,2025-06-18,UK,12
+U216,F082,Fast Five,25,2025-07-02,UK,20
+U040,F065,The Hunger Games,21,2025-05-19,MX,10
+U107,F065,The Hunger Games,121,2025-07-04,AU,8
+U038,F001,Avatar,95,2025-04-23,JP,8
+U226,F098,Dune,10,2025-03-23,DE,10
+U219,F079,Fast & Furious,112,2025-06-01,MX,8
+U001,F012,Star Wars: The Last Jedi,29,2025-05-21,JP,8
+U169,F065,The Hunger Games,121,2025-04-13,BR,15
+U089,F048,Black Panther,94,2025-07-25,MX,10
+U239,F048,Black Panther,32,2025-04-23,AU,10
+U060,F079,Fast & Furious,2,2025-03-17,FR,20
+U181,F001,Avatar,20,2025-06-12,CA,8
+U010,F098,Dune,54,2025-07-12,JP,20
+U026,F019,The Matrix Reloaded,63,2025-03-31,MX,10
+U004,F098,Dune,21,2025-06-18,CA,15
+U201,F094,Deadpool 2,5,2025-05-31,JP,12
+U167,F005,Titanic,112,2025-05-29,MX,15
+U082,F065,The Hunger Games,121,2025-07-22,US,20
+U061,F012,Star Wars: The Last Jedi,32,2025-05-03,UK,10
+U026,F082,Fast Five,8,2025-06-27,CA,20
+U232,F101,Wonder Woman,17,2025-03-17,FR,10
+U076,F043,Captain America: Civil War,2,2025-06-09,IN,10
+U136,F079,Fast & Furious,112,2025-07-28,CA,10
+U021,F045,Thor: Ragnarok,5,2025-06-11,JP,12
+U128,F056,Frozen,42,2025-04-11,AU,8
+U066,F019,The Matrix Reloaded,20,2025-05-10,US,12
+U120,F012,Star Wars: The Last Jedi,35,2025-08-26,MX,12
+U114,F043,Captain America: Civil War,48,2025-08-03,DE,15
+U109,F094,Deadpool 2,66,2025-06-30,DE,15
+U099,F065,The Hunger Games,13,2025-04-02,AU,10
+U092,F056,Frozen,2,2025-05-20,DE,10
+U213,F001,Avatar,9,2025-05-15,US,10
+U176,F011,Star Wars: The Force Awakens,117,2025-08-08,BR,8
+U232,F012,Star Wars: The Last Jedi,87,2025-05-03,JP,8
+U057,F031,The Lord of the Rings: The Return of the King,61,2025-08-11,DE,10
+U185,F098,Dune,64,2025-08-13,UK,10
+U166,F011,Star Wars: The Force Awakens,63,2025-05-24,BR,20
+U094,F098,Dune,13,2025-03-29,DE,12
+U107,F066,The Hunger Games: Catching Fire,93,2025-04-26,CA,10
+U225,F043,Captain America: Civil War,24,2025-07-19,MX,12
+U213,F066,The Hunger Games: Catching Fire,22,2025-05-10,BR,8
+U076,F048,Black Panther,43,2025-04-04,BR,10
+U037,F034,The Hobbit: The Battle of the Five Armies,2,2025-08-26,IN,12
+U206,F080,2 Fast 2 Furious,11,2025-06-07,UK,10
+U004,F094,Deadpool 2,50,2025-07-21,UK,10
+U173,F094,Deadpool 2,3,2025-08-02,IN,20
+U241,F043,Captain America: Civil War,42,2025-04-02,AU,15
+U159,F080,2 Fast 2 Furious,18,2025-05-28,JP,12
+U017,F019,The Matrix Reloaded,31,2025-09-01,DE,12
+U030,F098,Dune,24,2025-03-17,US,12
+U127,F082,Fast Five,19,2025-03-30,AU,10
+U035,F001,Avatar,83,2025-06-30,FR,10
+U191,F080,2 Fast 2 Furious,22,2025-06-21,JP,8
+U040,F079,Fast & Furious,46,2025-08-20,UK,10
+U158,F079,Fast & Furious,36,2025-05-16,US,12
+U056,F019,The Matrix Reloaded,68,2025-06-27,AU,10
+U026,F043,Captain America: Civil War,92,2025-07-23,FR,20
+U071,F031,The Lord of the Rings: The Return of the King,89,2025-04-06,BR,20
+U055,F045,Thor: Ragnarok,10,2025-03-11,US,15
+U063,F098,Dune,2,2025-07-28,AU,12
+U196,F080,2 Fast 2 Furious,19,2025-04-28,JP,15
+U223,F034,The Hobbit: The Battle of the Five Armies,49,2025-05-29,CA,8
+U153,F101,Wonder Woman,2,2025-05-15,CA,15
+U139,F094,Deadpool 2,25,2025-04-19,UK,8
+U007,F098,Dune,64,2025-03-09,FR,15
+U061,F056,Frozen,19,2025-05-27,US,10
+U014,F098,Dune,103,2025-06-21,MX,15
+U017,F065,The Hunger Games,6,2025-06-28,FR,20
+U028,F019,The Matrix Reloaded,4,2025-07-12,AU,8
+U012,F068,The Hunger Games: Mockingjay - Part 2,69,2025-05-22,BR,10
+U008,F011,Star Wars: The Force Awakens,40,2025-07-06,IN,20
+U028,F065,The Hunger Games,70,2025-06-27,UK,10
+U083,F045,Thor: Ragnarok,25,2025-04-12,UK,15
+U160,F056,Frozen,13,2025-07-24,FR,12
+U153,F068,The Hunger Games: Mockingjay - Part 2,90,2025-05-20,BR,10
+U111,F082,Fast Five,71,2025-09-01,UK,10
+U167,F080,2 Fast 2 Furious,77,2025-04-30,IN,10
+U059,F079,Fast & Furious,17,2025-05-31,BR,15
+U187,F082,Fast Five,39,2025-05-25,IN,10
+U066,F043,Captain America: Civil War,20,2025-04-14,BR,12
+U213,F005,Titanic,6,2025-03-29,IN,10
+U190,F043,Captain America: Civil War,92,2025-04-08,MX,12
+U245,F080,2 Fast 2 Furious,9,2025-07-27,FR,15
+U106,F043,Captain America: Civil War,92,2025-08-23,IN,20
+U185,F011,Star Wars: The Force Awakens,34,2025-05-18,JP,10
+U027,F056,Frozen,10,2025-07-13,AU,15
+U124,F034,The Hobbit: The Battle of the Five Armies,42,2025-04-02,FR,15
+U095,F082,Fast Five,89,2025-05-16,JP,12
+U110,F080,2 Fast 2 Furious,85,2025-08-12,JP,20
+U143,F101,Wonder Woman,87,2025-08-08,DE,10
+U070,F012,Star Wars: The Last Jedi,46,2025-05-31,FR,8
+U223,F098,Dune,83,2025-07-28,IN,15
+U190,F101,Wonder Woman,101,2025-03-29,MX,10
+U108,F019,The Matrix Reloaded,18,2025-06-01,CA,15
+U185,F048,Black Panther,39,2025-07-29,JP,15
+U014,F098,Dune,17,2025-04-15,JP,8
+U021,F094,Deadpool 2,75,2025-06-27,IN,15
+U114,F079,Fast & Furious,112,2025-05-14,AU,10
+U030,F043,Captain America: Civil War,2,2025-06-24,UK,12
+U174,F056,Frozen,59,2025-07-08,MX,12
+U012,F034,The Hobbit: The Battle of the Five Armies,109,2025-06-15,JP,20
+U053,F012,Star Wars: The Last Jedi,8,2025-04-29,CA,8
+U075,F048,Black Panther,49,2025-04-05,US,10
+U111,F066,The Hunger Games: Catching Fire,93,2025-04-08,IN,12
+U059,F068,The Hunger Games: Mockingjay - Part 2,2,2025-07-27,FR,15
+U221,F011,Star Wars: The Force Awakens,69,2025-06-25,US,12
+U020,F048,Black Panther,20,2025-07-31,IN,8
+U182,F079,Fast & Furious,112,2025-05-19,UK,10
+U248,F048,Black Panther,118,2025-04-18,JP,10
+U177,F043,Captain America: Civil War,92,2025-03-28,IN,15
+U063,F079,Fast & Furious,36,2025-08-03,IN,10
+U102,F012,Star Wars: The Last Jedi,86,2025-05-31,AU,10
+U044,F005,Titanic,116,2025-07-14,UK,20
+U050,F043,Captain America: Civil War,17,2025-06-03,CA,8
+U038,F094,Deadpool 2,66,2025-04-25,CA,20
+U195,F005,Titanic,2,2025-04-20,BR,12
+U145,F056,Frozen,44,2025-06-28,JP,15
+U160,F048,Black Panther,15,2025-08-13,FR,10
+U018,F065,The Hunger Games,7,2025-06-27,DE,8
+U152,F011,Star Wars: The Force Awakens,4,2025-06-04,MX,15
+U119,F019,The Matrix Reloaded,75,2025-03-15,US,15
+U074,F005,Titanic,25,2025-08-18,UK,15
+U130,F001,Avatar,85,2025-07-02,JP,8
+U203,F011,Star Wars: The Force Awakens,3,2025-06-29,JP,15
+U083,F045,Thor: Ragnarok,17,2025-07-05,MX,15
+U016,F019,The Matrix Reloaded,48,2025-04-01,FR,12
+U022,F068,The Hunger Games: Mockingjay - Part 2,82,2025-08-18,CA,15
+U182,F019,The Matrix Reloaded,24,2025-06-26,MX,15
+U041,F043,Captain America: Civil War,45,2025-06-09,DE,12
+U199,F048,Black Panther,118,2025-08-26,JP,8
+U162,F048,Black Panther,56,2025-03-22,FR,10
+U174,F001,Avatar,17,2025-05-17,DE,8
+U169,F045,Thor: Ragnarok,2,2025-04-13,FR,10
+U170,F098,Dune,141,2025-06-03,DE,10
+U179,F001,Avatar,2,2025-04-08,JP,8
+U022,F012,Star Wars: The Last Jedi,87,2025-07-27,IN,10
+U085,F098,Dune,53,2025-08-24,MX,8
+U172,F079,Fast & Furious,112,2025-07-14,FR,15
+U080,F066,The Hunger Games: Catching Fire,74,2025-04-29,FR,20
+U125,F031,The Lord of the Rings: The Return of the King,135,2025-05-02,CA,8
+U076,F082,Fast Five,19,2025-07-13,MX,20
+U227,F068,The Hunger Games: Mockingjay - Part 2,77,2025-03-15,FR,12
+U159,F098,Dune,36,2025-08-05,IN,10
+U047,F045,Thor: Ragnarok,29,2025-04-17,BR,8
+U094,F034,The Hobbit: The Battle of the Five Armies,53,2025-06-27,JP,12
+U192,F019,The Matrix Reloaded,126,2025-05-04,MX,15
+U248,F065,The Hunger Games,121,2025-04-24,FR,15
+U147,F019,The Matrix Reloaded,92,2025-07-02,DE,8
+U129,F068,The Hunger Games: Mockingjay - Part 2,28,2025-06-21,CA,8
+U206,F045,Thor: Ragnarok,24,2025-04-10,DE,10
+U124,F043,Captain America: Civil War,61,2025-07-25,UK,10
+U133,F082,Fast Five,12,2025-05-17,UK,10
+U070,F019,The Matrix Reloaded,7,2025-07-15,CA,10
+U024,F034,The Hobbit: The Battle of the Five Armies,23,2025-06-29,FR,15
+U107,F011,Star Wars: The Force Awakens,19,2025-06-15,MX,20
+U099,F005,Titanic,21,2025-06-09,AU,10
+U239,F082,Fast Five,11,2025-08-19,FR,20
+U036,F011,Star Wars: The Force Awakens,2,2025-05-18,BR,10
+U036,F065,The Hunger Games,2,2025-06-28,JP,10
+U021,F101,Wonder Woman,107,2025-05-10,AU,10
+U141,F045,Thor: Ragnarok,25,2025-07-19,IN,12
+U074,F034,The Hobbit: The Battle of the Five Armies,26,2025-05-22,UK,20
+U108,F045,Thor: Ragnarok,51,2025-07-01,UK,12
+U232,F065,The Hunger Games,14,2025-08-05,MX,10
+U132,F056,Frozen,98,2025-05-06,CA,12
+U001,F045,Thor: Ragnarok,69,2025-06-04,AU,8
+U048,F005,Titanic,5,2025-07-18,FR,15
+U135,F080,2 Fast 2 Furious,35,2025-07-13,MX,12
+U100,F065,The Hunger Games,121,2025-03-17,IN,10
+U065,F101,Wonder Woman,107,2025-06-05,UK,12
+U188,F082,Fast Five,28,2025-08-01,FR,12
+U091,F080,2 Fast 2 Furious,61,2025-05-31,CA,8
+U176,F019,The Matrix Reloaded,11,2025-08-31,BR,12
+U208,F098,Dune,141,2025-03-22,BR,10
+U052,F011,Star Wars: The Force Awakens,15,2025-04-26,US,15
+U080,F068,The Hunger Games: Mockingjay - Part 2,106,2025-06-15,MX,15
+U010,F031,The Lord of the Rings: The Return of the King,70,2025-05-18,FR,15
+U013,F048,Black Panther,55,2025-05-14,UK,12
+U112,F001,Avatar,47,2025-06-26,IN,12
+U048,F065,The Hunger Games,15,2025-08-30,BR,8
+U205,F068,The Hunger Games: Mockingjay - Part 2,10,2025-05-13,UK,15
+U021,F079,Fast & Furious,13,2025-08-07,CA,10
+U083,F082,Fast Five,9,2025-03-26,FR,10
+U079,F019,The Matrix Reloaded,95,2025-08-07,IN,10
+U114,F043,Captain America: Civil War,19,2025-06-28,US,8
+U234,F043,Captain America: Civil War,2,2025-08-10,IN,12
+U203,F011,Star Wars: The Force Awakens,117,2025-03-25,IN,8
+U206,F066,The Hunger Games: Catching Fire,93,2025-03-13,CA,15
+U174,F019,The Matrix Reloaded,126,2025-03-14,CA,10
+U200,F043,Captain America: Civil War,92,2025-06-06,IN,8
+U009,F045,Thor: Ragnarok,8,2025-04-14,BR,12
+U096,F019,The Matrix Reloaded,31,2025-03-25,JP,8
+U094,F001,Avatar,93,2025-05-25,DE,10
+U030,F101,Wonder Woman,63,2025-04-22,BR,15
+U234,F080,2 Fast 2 Furious,10,2025-04-05,DE,8
+U181,F019,The Matrix Reloaded,106,2025-04-29,JP,15
+U235,F065,The Hunger Games,15,2025-04-26,UK,8
+U019,F019,The Matrix Reloaded,15,2025-04-19,BR,10
+U208,F048,Black Panther,45,2025-08-23,FR,15
+U141,F080,2 Fast 2 Furious,58,2025-05-19,DE,10
+U183,F066,The Hunger Games: Catching Fire,40,2025-06-06,MX,8
+U052,F098,Dune,6,2025-05-05,BR,10
+U142,F056,Frozen,98,2025-06-08,BR,10
+U142,F098,Dune,21,2025-08-09,UK,15
+U102,F065,The Hunger Games,8,2025-07-18,IN,10
+U211,F056,Frozen,98,2025-03-24,CA,15
+U165,F005,Titanic,125,2025-06-29,BR,15
+U089,F098,Dune,139,2025-07-25,JP,10
+U248,F098,Dune,116,2025-06-24,MX,20
+U015,F082,Fast Five,47,2025-07-16,CA,10
+U042,F048,Black Panther,47,2025-05-02,FR,20
+U133,F012,Star Wars: The Last Jedi,3,2025-03-26,DE,8
+U245,F080,2 Fast 2 Furious,34,2025-05-15,CA,12
+U158,F080,2 Fast 2 Furious,30,2025-03-29,MX,10
+U152,F056,Frozen,14,2025-04-14,CA,10
+U185,F045,Thor: Ragnarok,57,2025-05-31,JP,12
+U222,F101,Wonder Woman,36,2025-03-26,US,15
+U198,F056,Frozen,4,2025-05-12,AU,8
+U107,F045,Thor: Ragnarok,11,2025-08-16,US,8
+U161,F080,2 Fast 2 Furious,74,2025-05-19,DE,15
+U207,F001,Avatar,5,2025-05-21,BR,12
+U016,F066,The Hunger Games: Catching Fire,88,2025-06-26,IN,20
+U053,F048,Black Panther,40,2025-08-08,CA,15
+U184,F048,Black Panther,38,2025-06-02,IN,20
+U095,F068,The Hunger Games: Mockingjay - Part 2,47,2025-07-27,UK,15
+U120,F082,Fast Five,77,2025-05-13,BR,10
+U025,F011,Star Wars: The Force Awakens,25,2025-05-19,IN,8
+U108,F034,The Hobbit: The Battle of the Five Armies,61,2025-04-15,FR,15
+U185,F048,Black Panther,49,2025-04-23,CA,12
+U132,F019,The Matrix Reloaded,19,2025-07-11,DE,8
+U024,F001,Avatar,132,2025-07-13,BR,10
+U056,F056,Frozen,78,2025-06-04,US,20
+U127,F045,Thor: Ragnarok,48,2025-08-20,BR,12
+U003,F082,Fast Five,84,2025-06-24,CA,10
+U187,F043,Captain America: Civil War,92,2025-06-17,FR,10
+U014,F056,Frozen,60,2025-07-27,AU,10
+U074,F005,Titanic,113,2025-06-12,MX,10
+U141,F094,Deadpool 2,44,2025-08-12,JP,10
+U250,F082,Fast Five,50,2025-06-14,FR,8
+U087,F080,2 Fast 2 Furious,62,2025-06-07,CA,15
+U131,F001,Avatar,92,2025-07-12,US,10
+U036,F048,Black Panther,10,2025-07-05,MX,15
+U156,F068,The Hunger Games: Mockingjay - Part 2,106,2025-04-10,FR,15
+U082,F066,The Hunger Games: Catching Fire,93,2025-06-14,JP,10
+U077,F056,Frozen,2,2025-05-31,MX,12
+U137,F065,The Hunger Games,105,2025-07-28,DE,10
+U005,F043,Captain America: Civil War,6,2025-05-29,UK,15
+U150,F012,Star Wars: The Last Jedi,17,2025-08-29,US,10
+U068,F056,Frozen,66,2025-07-31,AU,12
+U150,F065,The Hunger Games,10,2025-04-18,MX,12
+U159,F001,Avatar,112,2025-04-12,AU,10
+U243,F082,Fast Five,79,2025-04-23,US,8
+U108,F098,Dune,49,2025-06-19,AU,12
+U199,F045,Thor: Ragnarok,2,2025-07-04,US,15
+U133,F031,The Lord of the Rings: The Return of the King,22,2025-07-27,FR,10
+U123,F068,The Hunger Games: Mockingjay - Part 2,50,2025-06-10,FR,12
+U118,F080,2 Fast 2 Furious,130,2025-06-01,MX,10
+U198,F094,Deadpool 2,37,2025-08-09,BR,15
+U064,F094,Deadpool 2,11,2025-07-26,DE,8
+U250,F012,Star Wars: The Last Jedi,43,2025-05-18,AU,15
+U126,F048,Black Panther,45,2025-07-06,FR,10
+U240,F094,Deadpool 2,56,2025-05-18,UK,10
+U140,F001,Avatar,7,2025-06-15,FR,8
+U206,F098,Dune,100,2025-05-19,US,8
+U183,F005,Titanic,48,2025-06-02,BR,12
+U192,F065,The Hunger Games,121,2025-04-29,AU,10
+U070,F080,2 Fast 2 Furious,27,2025-08-31,DE,15
+U158,F056,Frozen,49,2025-05-06,AU,8
+U232,F068,The Hunger Games: Mockingjay - Part 2,106,2025-05-02,AU,10
+U106,F048,Black Panther,6,2025-07-04,UK,10
+U036,F101,Wonder Woman,107,2025-07-24,CA,8
+U240,F065,The Hunger Games,70,2025-07-06,AU,8
+U074,F048,Black Panther,4,2025-05-18,US,10
+U023,F056,Frozen,17,2025-05-04,MX,10
+U218,F011,Star Wars: The Force Awakens,72,2025-04-19,IN,10
+U046,F011,Star Wars: The Force Awakens,4,2025-06-15,BR,12
+U192,F012,Star Wars: The Last Jedi,37,2025-03-15,US,12
+U155,F082,Fast Five,18,2025-05-30,DE,8
+U165,F080,2 Fast 2 Furious,63,2025-07-18,BR,10
+U035,F068,The Hunger Games: Mockingjay - Part 2,2,2025-07-03,DE,20
+U029,F048,Black Panther,118,2025-04-16,BR,12
+U184,F066,The Hunger Games: Catching Fire,93,2025-03-09,FR,12
+U146,F031,The Lord of the Rings: The Return of the King,135,2025-04-19,JP,10
+U230,F001,Avatar,91,2025-06-23,MX,15
+U103,F082,Fast Five,6,2025-04-22,CA,15
+U240,F034,The Hobbit: The Battle of the Five Armies,77,2025-03-07,DE,12
+U115,F094,Deadpool 2,2,2025-05-29,DE,20
+U147,F101,Wonder Woman,2,2025-05-11,FR,8
+U016,F082,Fast Five,17,2025-07-03,DE,8
+U176,F068,The Hunger Games: Mockingjay - Part 2,35,2025-05-24,UK,15
+U241,F012,Star Wars: The Last Jedi,64,2025-06-08,JP,15
+U246,F098,Dune,81,2025-07-06,CA,8
+U156,F043,Captain America: Civil War,27,2025-06-20,MX,10
+U194,F080,2 Fast 2 Furious,20,2025-08-23,AU,8
+U175,F045,Thor: Ragnarok,90,2025-03-26,MX,10
+U181,F043,Captain America: Civil War,25,2025-03-25,JP,15
+U213,F080,2 Fast 2 Furious,39,2025-07-13,AU,12
+U039,F066,The Hunger Games: Catching Fire,8,2025-05-28,MX,10
+U175,F031,The Lord of the Rings: The Return of the King,106,2025-08-02,BR,10
+U131,F019,The Matrix Reloaded,74,2025-03-20,BR,8
+U107,F019,The Matrix Reloaded,15,2025-07-28,US,10
+U173,F012,Star Wars: The Last Jedi,3,2025-03-11,IN,12
+U001,F031,The Lord of the Rings: The Return of the King,77,2025-08-01,UK,20
+U089,F005,Titanic,66,2025-07-22,US,15
+U018,F065,The Hunger Games,19,2025-03-14,DE,8
+U197,F098,Dune,141,2025-08-17,IN,15
+U229,F001,Avatar,10,2025-06-28,IN,15
+U175,F080,2 Fast 2 Furious,36,2025-04-09,FR,15
+U138,F001,Avatar,132,2025-07-19,CA,10
+U058,F101,Wonder Woman,29,2025-03-11,DE,10
+U185,F080,2 Fast 2 Furious,66,2025-06-22,MX,10
+U059,F034,The Hobbit: The Battle of the Five Armies,27,2025-07-01,FR,8
+U049,F082,Fast Five,14,2025-03-14,IN,10
+U240,F101,Wonder Woman,107,2025-05-06,AU,10
+U153,F011,Star Wars: The Force Awakens,30,2025-06-28,JP,10
+U224,F011,Star Wars: The Force Awakens,117,2025-05-07,US,15
+U060,F080,2 Fast 2 Furious,16,2025-04-30,US,10
+U075,F034,The Hobbit: The Battle of the Five Armies,13,2025-07-31,FR,8
+U198,F048,Black Panther,2,2025-05-05,DE,20
+U170,F068,The Hunger Games: Mockingjay - Part 2,55,2025-05-01,IN,20
+U016,F080,2 Fast 2 Furious,29,2025-08-04,CA,15
+U110,F080,2 Fast 2 Furious,129,2025-07-10,US,20
+U242,F001,Avatar,42,2025-07-18,FR,12
+U105,F098,Dune,141,2025-05-21,IN,20
+U138,F065,The Hunger Games,12,2025-05-06,AU,8
+U182,F098,Dune,141,2025-07-02,US,10
+U248,F079,Fast & Furious,83,2025-07-26,MX,10
+U063,F094,Deadpool 2,55,2025-04-27,FR,8
+U237,F019,The Matrix Reloaded,117,2025-06-08,UK,8
+U213,F031,The Lord of the Rings: The Return of the King,96,2025-03-19,DE,12
+U155,F045,Thor: Ragnarok,44,2025-03-16,UK,15
+U195,F056,Frozen,6,2025-08-24,MX,12
+U054,F048,Black Panther,2,2025-05-22,US,8
+U049,F082,Fast Five,89,2025-07-06,AU,15
+U181,F031,The Lord of the Rings: The Return of the King,64,2025-06-15,AU,12
+U199,F012,Star Wars: The Last Jedi,69,2025-06-11,BR,10
+U092,F012,Star Wars: The Last Jedi,28,2025-05-11,FR,12
+U128,F019,The Matrix Reloaded,7,2025-03-31,BR,10
+U082,F031,The Lord of the Rings: The Return of the King,9,2025-06-08,FR,10
+U145,F034,The Hobbit: The Battle of the Five Armies,63,2025-04-12,US,20
+U240,F056,Frozen,27,2025-08-01,IN,10
+U051,F048,Black Panther,13,2025-05-03,IN,10
+U063,F065,The Hunger Games,40,2025-07-24,FR,15
+U211,F065,The Hunger Games,4,2025-08-17,BR,15
+U188,F043,Captain America: Civil War,40,2025-04-18,CA,8
+U126,F066,The Hunger Games: Catching Fire,14,2025-07-22,US,8
+U215,F005,Titanic,99,2025-08-24,US,8
+U106,F098,Dune,26,2025-08-14,AU,12
+U039,F101,Wonder Woman,32,2025-04-30,MX,10
+U016,F045,Thor: Ragnarok,2,2025-08-16,JP,8
+U169,F065,The Hunger Games,4,2025-03-10,US,20
+U106,F101,Wonder Woman,26,2025-03-10,MX,12
+U138,F012,Star Wars: The Last Jedi,28,2025-03-10,MX,10
+U173,F079,Fast & Furious,51,2025-04-20,UK,12
+U135,F098,Dune,24,2025-05-06,AU,12
+U065,F043,Captain America: Civil War,54,2025-05-13,IN,8
+U246,F001,Avatar,129,2025-07-01,JP,10
+U179,F034,The Hobbit: The Battle of the Five Armies,82,2025-05-21,UK,15
+U220,F011,Star Wars: The Force Awakens,2,2025-03-29,IN,10
+U142,F065,The Hunger Games,39,2025-03-20,US,12
+U022,F065,The Hunger Games,6,2025-06-25,FR,10
+U220,F082,Fast Five,12,2025-07-19,US,8
+U231,F056,Frozen,98,2025-07-05,DE,8
+U020,F094,Deadpool 2,5,2025-07-23,JP,10
+U046,F048,Black Panther,40,2025-03-10,AU,10
+U193,F001,Avatar,63,2025-03-25,DE,8
+U062,F056,Frozen,59,2025-06-13,MX,15
+U194,F098,Dune,57,2025-08-29,UK,20
+U250,F043,Captain America: Civil War,2,2025-03-19,UK,15
+U215,F005,Titanic,24,2025-06-01,JP,15
+U245,F045,Thor: Ragnarok,32,2025-06-15,FR,10
+U070,F019,The Matrix Reloaded,5,2025-07-09,AU,20
+U241,F001,Avatar,28,2025-06-24,CA,8
+U170,F001,Avatar,2,2025-03-27,JP,20
+U064,F005,Titanic,5,2025-03-27,DE,20
+U183,F098,Dune,35,2025-06-13,FR,15
+U024,F101,Wonder Woman,7,2025-05-23,BR,20
+U070,F082,Fast Five,37,2025-04-08,UK,12
+U115,F080,2 Fast 2 Furious,76,2025-07-26,MX,10
+U007,F005,Titanic,100,2025-06-04,MX,10
+U154,F048,Black Panther,13,2025-06-12,US,12
+U100,F005,Titanic,11,2025-07-27,AU,8
+U044,F001,Avatar,7,2025-04-18,CA,12
+U069,F065,The Hunger Games,61,2025-04-12,UK,20
+U071,F079,Fast & Furious,68,2025-05-21,BR,8
+U093,F094,Deadpool 2,2,2025-05-08,BR,15
+U051,F019,The Matrix Reloaded,126,2025-04-02,CA,20
+U243,F001,Avatar,3,2025-05-30,JP,20
+U221,F048,Black Panther,45,2025-06-26,FR,20
+U211,F045,Thor: Ragnarok,55,2025-04-09,DE,12
+U243,F031,The Lord of the Rings: The Return of the King,135,2025-07-06,FR,20
+U102,F048,Black Panther,73,2025-05-19,BR,15
+U201,F034,The Hobbit: The Battle of the Five Armies,88,2025-05-28,IN,8
+U202,F001,Avatar,27,2025-06-07,UK,10
+U052,F056,Frozen,82,2025-07-23,CA,15
+U141,F101,Wonder Woman,4,2025-07-02,AU,10
+U075,F005,Titanic,125,2025-06-18,BR,12
+U078,F034,The Hobbit: The Battle of the Five Armies,43,2025-05-09,CA,12
+U203,F001,Avatar,112,2025-03-24,BR,8
+U123,F056,Frozen,29,2025-06-16,MX,12
+U236,F079,Fast & Furious,57,2025-07-23,US,15
+U093,F080,2 Fast 2 Furious,48,2025-08-05,UK,10
+U064,F043,Captain America: Civil War,60,2025-04-17,JP,8
+U166,F001,Avatar,5,2025-05-29,IN,8
+U026,F094,Deadpool 2,2,2025-05-01,MX,10
+U143,F056,Frozen,13,2025-08-29,JP,20
+U096,F001,Avatar,11,2025-07-02,JP,10
+U039,F043,Captain America: Civil War,92,2025-03-12,BR,12
+U107,F005,Titanic,15,2025-04-04,CA,10
+U088,F019,The Matrix Reloaded,126,2025-04-27,MX,10
+U122,F082,Fast Five,18,2025-06-26,BR,15
+U077,F011,Star Wars: The Force Awakens,11,2025-04-04,US,15
+U166,F082,Fast Five,69,2025-08-26,CA,8
+U190,F034,The Hobbit: The Battle of the Five Armies,58,2025-07-16,CA,10
+U085,F080,2 Fast 2 Furious,44,2025-06-23,BR,8
+U104,F066,The Hunger Games: Catching Fire,37,2025-04-22,IN,10
+U189,F045,Thor: Ragnarok,57,2025-04-25,BR,12
+U100,F101,Wonder Woman,13,2025-04-29,AU,8
+U181,F005,Titanic,125,2025-07-31,UK,10
+U138,F066,The Hunger Games: Catching Fire,93,2025-06-07,FR,10
+U030,F094,Deadpool 2,39,2025-08-24,BR,20
+U164,F048,Black Panther,13,2025-08-05,IN,20
+U151,F082,Fast Five,50,2025-06-03,FR,8
+U159,F066,The Hunger Games: Catching Fire,3,2025-08-25,DE,15
+U152,F005,Titanic,2,2025-08-25,CA,10
+U062,F012,Star Wars: The Last Jedi,12,2025-04-04,CA,10
+U037,F068,The Hunger Games: Mockingjay - Part 2,32,2025-06-13,IN,15
+U148,F001,Avatar,132,2025-06-22,CA,20
+U138,F066,The Hunger Games: Catching Fire,60,2025-07-26,CA,20
+U036,F066,The Hunger Games: Catching Fire,63,2025-05-25,BR,12
+U222,F043,Captain America: Civil War,25,2025-03-08,BR,10
+U209,F001,Avatar,28,2025-07-27,MX,15
+U105,F065,The Hunger Games,28,2025-06-20,BR,10
+U022,F056,Frozen,98,2025-03-13,AU,12
+U071,F034,The Hobbit: The Battle of the Five Armies,2,2025-07-21,DE,10
+U118,F056,Frozen,98,2025-07-10,MX,12
+U147,F082,Fast Five,38,2025-05-13,MX,10
+U094,F080,2 Fast 2 Furious,37,2025-03-16,BR,8
+U109,F082,Fast Five,57,2025-08-20,AU,20
+U009,F019,The Matrix Reloaded,42,2025-05-12,FR,8
+U023,F019,The Matrix Reloaded,126,2025-04-05,AU,12
+U189,F056,Frozen,98,2025-08-29,FR,10
+U157,F079,Fast & Furious,30,2025-04-17,JP,8
+U053,F031,The Lord of the Rings: The Return of the King,21,2025-03-21,JP,8
+U072,F045,Thor: Ragnarok,40,2025-07-21,CA,8
+U181,F012,Star Wars: The Last Jedi,87,2025-05-19,JP,15
+U220,F068,The Hunger Games: Mockingjay - Part 2,12,2025-08-26,UK,10
+U193,F079,Fast & Furious,54,2025-03-21,DE,20
+U033,F098,Dune,70,2025-05-08,CA,12
+U213,F034,The Hobbit: The Battle of the Five Armies,71,2025-08-26,IN,10
+U148,F094,Deadpool 2,5,2025-08-13,IN,12
+U020,F005,Titanic,78,2025-06-17,MX,12
+U178,F043,Captain America: Civil War,92,2025-06-30,BR,15
+U001,F005,Titanic,12,2025-07-01,FR,10
+U204,F080,2 Fast 2 Furious,17,2025-06-15,AU,10
+U212,F031,The Lord of the Rings: The Return of the King,135,2025-07-10,DE,15
+U073,F048,Black Panther,11,2025-07-24,JP,20
+U219,F065,The Hunger Games,116,2025-06-01,US,15
+U161,F019,The Matrix Reloaded,42,2025-03-10,UK,10
+U041,F019,The Matrix Reloaded,17,2025-06-30,US,15
+U110,F031,The Lord of the Rings: The Return of the King,135,2025-08-29,CA,10
+U078,F066,The Hunger Games: Catching Fire,27,2025-05-15,UK,10
+U065,F005,Titanic,45,2025-06-09,CA,10
+U161,F012,Star Wars: The Last Jedi,19,2025-09-01,AU,12
+U024,F082,Fast Five,39,2025-03-06,AU,8
+U034,F056,Frozen,8,2025-05-02,MX,10
+U003,F101,Wonder Woman,26,2025-08-31,FR,15
+U221,F079,Fast & Furious,112,2025-08-30,CA,10
+U059,F001,Avatar,19,2025-03-28,UK,8
+U095,F012,Star Wars: The Last Jedi,46,2025-04-10,IN,8
+U193,F098,Dune,27,2025-08-17,CA,20
+U145,F101,Wonder Woman,79,2025-08-09,CA,12
+U185,F031,The Lord of the Rings: The Return of the King,9,2025-08-13,CA,10
+U158,F019,The Matrix Reloaded,126,2025-04-30,UK,15
+U036,F082,Fast Five,26,2025-08-03,IN,15
+U110,F048,Black Panther,15,2025-04-10,AU,10
+U022,F034,The Hobbit: The Battle of the Five Armies,4,2025-07-25,JP,12
+U156,F012,Star Wars: The Last Jedi,8,2025-08-29,US,15
+U169,F012,Star Wars: The Last Jedi,31,2025-04-27,MX,12
+U049,F001,Avatar,27,2025-05-20,US,8
+U204,F034,The Hobbit: The Battle of the Five Armies,96,2025-07-10,IN,15
+U128,F045,Thor: Ragnarok,25,2025-03-24,MX,12
+U004,F043,Captain America: Civil War,13,2025-05-26,CA,10
+U215,F056,Frozen,47,2025-06-21,FR,10
+U045,F065,The Hunger Games,74,2025-03-24,US,8
+U004,F094,Deadpool 2,6,2025-04-30,US,8
+U243,F001,Avatar,12,2025-07-13,DE,15
+U129,F079,Fast & Furious,2,2025-06-22,IN,8
+U138,F080,2 Fast 2 Furious,86,2025-08-10,CA,10
+U080,F005,Titanic,68,2025-07-14,AU,12
+U040,F080,2 Fast 2 Furious,41,2025-05-28,IN,8
+U196,F005,Titanic,116,2025-05-24,IN,20
+U217,F034,The Hobbit: The Battle of the Five Armies,89,2025-03-20,AU,10
+U112,F082,Fast Five,39,2025-06-30,JP,10
+U080,F066,The Hunger Games: Catching Fire,93,2025-04-05,US,10
+U180,F101,Wonder Woman,12,2025-04-16,BR,10
+U134,F068,The Hunger Games: Mockingjay - Part 2,6,2025-05-11,CA,8
+U192,F094,Deadpool 2,11,2025-04-05,US,15
+U110,F094,Deadpool 2,2,2025-07-18,UK,20
+U250,F056,Frozen,37,2025-08-13,UK,10
+U131,F043,Captain America: Civil War,92,2025-03-20,BR,12
+U043,F043,Captain America: Civil War,2,2025-04-15,DE,15
+U229,F056,Frozen,6,2025-08-25,UK,15
+U131,F101,Wonder Woman,32,2025-03-17,US,10
+U121,F043,Captain America: Civil War,92,2025-06-12,CA,10
+U246,F011,Star Wars: The Force Awakens,22,2025-07-25,IN,10
+U064,F079,Fast & Furious,39,2025-05-26,DE,15
+U147,F043,Captain America: Civil War,2,2025-04-05,MX,15
+U014,F066,The Hunger Games: Catching Fire,7,2025-05-02,MX,8
+U245,F001,Avatar,132,2025-03-23,BR,10
+U199,F012,Star Wars: The Last Jedi,87,2025-05-28,UK,20
+U003,F043,Captain America: Civil War,2,2025-04-26,DE,15
+U078,F045,Thor: Ragnarok,90,2025-05-07,BR,20
+U249,F065,The Hunger Games,61,2025-04-25,MX,15
+U063,F098,Dune,141,2025-03-07,IN,10
+U139,F043,Captain America: Civil War,27,2025-08-15,US,12
+U001,F001,Avatar,47,2025-05-23,UK,12
+U061,F079,Fast & Furious,37,2025-07-09,US,8
+U037,F094,Deadpool 2,41,2025-03-29,US,12
+U230,F068,The Hunger Games: Mockingjay - Part 2,7,2025-06-19,FR,15
+U192,F005,Titanic,2,2025-08-01,UK,8
+U164,F001,Avatar,24,2025-03-25,JP,15
+U112,F098,Dune,85,2025-05-05,DE,12
+U081,F001,Avatar,14,2025-09-01,FR,20
+U070,F034,The Hobbit: The Battle of the Five Armies,60,2025-03-25,AU,8
+U198,F056,Frozen,98,2025-04-02,CA,10
+U116,F019,The Matrix Reloaded,6,2025-05-25,IN,12
+U092,F031,The Lord of the Rings: The Return of the King,75,2025-06-29,DE,10
+U219,F082,Fast Five,26,2025-03-29,CA,15
+U078,F045,Thor: Ragnarok,90,2025-03-16,AU,15
+U084,F098,Dune,13,2025-03-29,AU,8
+U102,F068,The Hunger Games: Mockingjay - Part 2,62,2025-03-18,DE,12
+U045,F101,Wonder Woman,97,2025-06-17,BR,12
+U141,F034,The Hobbit: The Battle of the Five Armies,109,2025-03-30,BR,10
+U204,F098,Dune,81,2025-04-06,US,20
+U200,F034,The Hobbit: The Battle of the Five Armies,37,2025-04-08,AU,15
+U096,F005,Titanic,60,2025-08-02,JP,12
+U209,F005,Titanic,125,2025-03-11,UK,15
+U166,F019,The Matrix Reloaded,53,2025-04-07,UK,10
+U213,F048,Black Panther,2,2025-04-06,US,20
+U013,F066,The Hunger Games: Catching Fire,93,2025-07-30,IN,12
+U102,F065,The Hunger Games,70,2025-03-13,IN,15
+U045,F043,Captain America: Civil War,51,2025-04-29,CA,15
+U115,F098,Dune,17,2025-03-14,JP,10
+U063,F012,Star Wars: The Last Jedi,46,2025-07-11,IN,15
+U123,F011,Star Wars: The Force Awakens,29,2025-03-28,DE,8
+U108,F031,The Lord of the Rings: The Return of the King,71,2025-08-17,MX,10
+U206,F080,2 Fast 2 Furious,7,2025-03-10,IN,10
+U092,F065,The Hunger Games,64,2025-07-23,BR,20
+U145,F068,The Hunger Games: Mockingjay - Part 2,106,2025-05-27,IN,15
+U007,F048,Black Panther,2,2025-08-05,AU,15
+U208,F094,Deadpool 2,75,2025-03-20,BR,15
+U197,F056,Frozen,25,2025-05-04,CA,12
+U169,F034,The Hobbit: The Battle of the Five Armies,109,2025-05-13,MX,20
+U235,F011,Star Wars: The Force Awakens,89,2025-05-01,JP,10
+U205,F001,Avatar,55,2025-06-04,CA,10
+U152,F048,Black Panther,79,2025-08-31,FR,8
+U008,F043,Captain America: Civil War,92,2025-07-29,JP,15
+U243,F031,The Lord of the Rings: The Return of the King,34,2025-07-10,MX,15
+U126,F011,Star Wars: The Force Awakens,23,2025-03-29,US,10
+U057,F101,Wonder Woman,58,2025-07-18,BR,8
+U235,F045,Thor: Ragnarok,74,2025-04-26,CA,15
+U046,F048,Black Panther,84,2025-03-21,US,8
+U181,F098,Dune,112,2025-04-03,MX,15
+U246,F005,Titanic,35,2025-06-09,IN,20
+U087,F012,Star Wars: The Last Jedi,74,2025-05-27,CA,10
+U188,F079,Fast & Furious,7,2025-08-16,BR,10
+U045,F080,2 Fast 2 Furious,51,2025-08-30,JP,15
+U058,F056,Frozen,2,2025-04-19,IN,15
+U177,F012,Star Wars: The Last Jedi,17,2025-04-07,CA,12
+U243,F056,Frozen,22,2025-06-14,JP,20
+U155,F048,Black Panther,29,2025-08-09,AU,8
+U027,F065,The Hunger Games,71,2025-04-11,FR,12
+U061,F043,Captain America: Civil War,22,2025-05-26,CA,15
+U247,F005,Titanic,37,2025-08-24,FR,15
+U068,F031,The Lord of the Rings: The Return of the King,18,2025-05-08,UK,8
+U202,F082,Fast Five,20,2025-03-06,US,15
+U188,F079,Fast & Furious,14,2025-04-17,IN,12
+U097,F043,Captain America: Civil War,3,2025-07-23,IN,10
+U123,F056,Frozen,45,2025-08-19,AU,8
+U019,F011,Star Wars: The Force Awakens,64,2025-05-20,US,15
+U244,F082,Fast Five,42,2025-03-24,FR,8
+U097,F066,The Hunger Games: Catching Fire,28,2025-03-25,MX,10
+U024,F048,Black Panther,28,2025-08-05,JP,10
+U181,F101,Wonder Woman,106,2025-06-24,CA,15
+U112,F066,The Hunger Games: Catching Fire,34,2025-03-19,UK,12
+U250,F031,The Lord of the Rings: The Return of the King,44,2025-06-18,MX,15
+U187,F080,2 Fast 2 Furious,2,2025-05-12,DE,10
+U025,F011,Star Wars: The Force Awakens,24,2025-06-14,JP,12
+U126,F098,Dune,33,2025-03-19,FR,12
+U023,F012,Star Wars: The Last Jedi,22,2025-08-22,JP,15
+U025,F101,Wonder Woman,46,2025-04-27,CA,20
+U021,F065,The Hunger Games,46,2025-04-04,DE,8
+U121,F065,The Hunger Games,56,2025-08-22,DE,12
+U140,F001,Avatar,95,2025-04-22,FR,8
+U095,F066,The Hunger Games: Catching Fire,77,2025-06-28,US,12
+U120,F094,Deadpool 2,47,2025-05-02,DE,10
+U039,F082,Fast Five,89,2025-03-27,FR,10
+U106,F056,Frozen,2,2025-05-03,MX,10
+U100,F068,The Hunger Games: Mockingjay - Part 2,11,2025-06-21,MX,12
+U240,F065,The Hunger Games,2,2025-07-30,AU,10
+U021,F001,Avatar,68,2025-03-14,MX,15
+U133,F056,Frozen,98,2025-08-26,JP,10
+U244,F019,The Matrix Reloaded,17,2025-04-19,CA,8
+U207,F031,The Lord of the Rings: The Return of the King,135,2025-04-07,US,15
+U175,F079,Fast & Furious,3,2025-04-26,CA,10
+U067,F048,Black Panther,118,2025-03-23,UK,10
+U102,F080,2 Fast 2 Furious,28,2025-05-28,DE,12
+U235,F101,Wonder Woman,5,2025-09-01,JP,10
+U201,F079,Fast & Furious,37,2025-04-03,IN,8
+U146,F056,Frozen,14,2025-08-02,UK,10
+U145,F082,Fast Five,14,2025-05-18,MX,20
+U225,F079,Fast & Furious,20,2025-05-12,IN,12
+U147,F045,Thor: Ragnarok,73,2025-07-05,US,12
+U104,F098,Dune,54,2025-08-11,JP,12
+U103,F011,Star Wars: The Force Awakens,21,2025-06-15,FR,8
+U013,F065,The Hunger Games,57,2025-05-13,FR,10
+U210,F012,Star Wars: The Last Jedi,54,2025-05-24,DE,15
+U220,F082,Fast Five,14,2025-05-03,CA,8
+U191,F019,The Matrix Reloaded,33,2025-05-27,DE,10
+U155,F005,Titanic,8,2025-04-23,BR,10
+U211,F079,Fast & Furious,11,2025-07-08,MX,10
+U211,F011,Star Wars: The Force Awakens,66,2025-07-15,CA,20
+U182,F068,The Hunger Games: Mockingjay - Part 2,10,2025-06-17,CA,8
+U135,F056,Frozen,36,2025-03-13,CA,12
+U214,F031,The Lord of the Rings: The Return of the King,83,2025-03-20,AU,8
+U013,F043,Captain America: Civil War,5,2025-04-25,DE,20
+U119,F068,The Hunger Games: Mockingjay - Part 2,44,2025-06-15,UK,8
+U062,F043,Captain America: Civil War,13,2025-07-09,JP,10
+U246,F065,The Hunger Games,121,2025-08-03,MX,15
+U042,F094,Deadpool 2,24,2025-08-29,UK,15
+U099,F011,Star Wars: The Force Awakens,95,2025-04-16,JP,10
+U055,F034,The Hobbit: The Battle of the Five Armies,43,2025-08-18,AU,10
+U069,F079,Fast & Furious,2,2025-07-15,US,10
+U248,F101,Wonder Woman,53,2025-07-05,CA,10
+U154,F101,Wonder Woman,107,2025-05-02,DE,10
+U242,F012,Star Wars: The Last Jedi,40,2025-08-17,DE,10
+U097,F043,Captain America: Civil War,78,2025-07-01,DE,10
+U078,F068,The Hunger Games: Mockingjay - Part 2,106,2025-08-12,IN,10
+U002,F068,The Hunger Games: Mockingjay - Part 2,13,2025-08-22,FR,12
+U153,F045,Thor: Ragnarok,10,2025-05-17,DE,20
+U124,F005,Titanic,59,2025-05-31,DE,12
+U221,F094,Deadpool 2,19,2025-05-11,DE,8
+U133,F034,The Hobbit: The Battle of the Five Armies,99,2025-03-20,JP,8
+U082,F098,Dune,141,2025-03-12,BR,20
+U067,F079,Fast & Furious,24,2025-06-17,IN,10
+U150,F056,Frozen,13,2025-04-23,FR,8
+U057,F080,2 Fast 2 Furious,98,2025-08-16,BR,12
+U172,F043,Captain America: Civil War,14,2025-07-13,DE,12
+U216,F080,2 Fast 2 Furious,112,2025-04-21,DE,12
+U033,F094,Deadpool 2,20,2025-07-27,CA,10
+U231,F048,Black Panther,64,2025-08-20,UK,8
+U058,F012,Star Wars: The Last Jedi,4,2025-06-21,FR,20
+U150,F012,Star Wars: The Last Jedi,42,2025-07-02,UK,10
+U222,F056,Frozen,29,2025-08-01,JP,12
+U228,F031,The Lord of the Rings: The Return of the King,59,2025-07-12,UK,15
+U098,F068,The Hunger Games: Mockingjay - Part 2,9,2025-05-21,IN,12
+U219,F098,Dune,94,2025-04-10,AU,10
+U146,F019,The Matrix Reloaded,125,2025-04-11,FR,10
+U047,F005,Titanic,15,2025-07-08,FR,12
+U046,F048,Black Panther,5,2025-08-15,US,15
+U071,F031,The Lord of the Rings: The Return of the King,2,2025-04-18,JP,20
+U126,F005,Titanic,64,2025-04-08,JP,8
+U110,F001,Avatar,61,2025-06-23,BR,8
+U010,F080,2 Fast 2 Furious,51,2025-04-26,FR,20
+U229,F048,Black Panther,15,2025-07-19,AU,15
+U002,F034,The Hobbit: The Battle of the Five Armies,27,2025-05-02,FR,15
+U027,F001,Avatar,59,2025-07-12,JP,10
+U017,F011,Star Wars: The Force Awakens,40,2025-05-21,DE,12
+U134,F045,Thor: Ragnarok,90,2025-07-18,FR,15
+U176,F098,Dune,10,2025-06-01,BR,12
+U049,F066,The Hunger Games: Catching Fire,55,2025-06-17,US,10
+U187,F098,Dune,36,2025-04-29,US,8
+U044,F082,Fast Five,24,2025-06-07,US,12
+U164,F094,Deadpool 2,47,2025-07-20,JP,10
+U013,F082,Fast Five,52,2025-08-20,US,10
+U030,F079,Fast & Furious,112,2025-06-27,IN,20
+U065,F065,The Hunger Games,8,2025-09-01,CA,10
+U176,F101,Wonder Woman,5,2025-05-22,IN,15
+U170,F068,The Hunger Games: Mockingjay - Part 2,68,2025-05-14,JP,8
+U036,F079,Fast & Furious,48,2025-04-01,MX,12
+U031,F012,Star Wars: The Last Jedi,13,2025-04-04,UK,20
+U156,F031,The Lord of the Rings: The Return of the King,5,2025-05-12,MX,8
+U092,F079,Fast & Furious,5,2025-05-20,CA,8
+U128,F031,The Lord of the Rings: The Return of the King,135,2025-08-29,BR,10
+U001,F101,Wonder Woman,11,2025-08-24,UK,8
+U214,F056,Frozen,19,2025-08-24,BR,15
+U024,F068,The Hunger Games: Mockingjay - Part 2,13,2025-03-25,UK,20
+U165,F034,The Hobbit: The Battle of the Five Armies,23,2025-06-30,DE,10
+U013,F082,Fast Five,3,2025-04-19,US,10
+U093,F048,Black Panther,43,2025-06-23,UK,10
+U195,F011,Star Wars: The Force Awakens,4,2025-03-08,CA,15
+U044,F048,Black Panther,95,2025-06-05,BR,8
+U069,F005,Titanic,16,2025-06-09,FR,12
+U103,F001,Avatar,51,2025-06-30,DE,12
+U177,F065,The Hunger Games,121,2025-06-21,CA,12
+U179,F011,Star Wars: The Force Awakens,61,2025-04-15,UK,10
+U152,F065,The Hunger Games,46,2025-07-29,BR,15
+U098,F043,Captain America: Civil War,18,2025-08-09,US,8
+U226,F098,Dune,28,2025-07-07,BR,8
+U106,F019,The Matrix Reloaded,69,2025-03-17,UK,15
+U081,F101,Wonder Woman,107,2025-08-26,MX,15
+U148,F056,Frozen,53,2025-05-02,FR,8
+U177,F045,Thor: Ragnarok,36,2025-03-30,IN,10
+U064,F065,The Hunger Games,79,2025-06-02,IN,10
+U212,F080,2 Fast 2 Furious,40,2025-08-09,US,10
+U240,F066,The Hunger Games: Catching Fire,2,2025-07-13,BR,10
+U223,F066,The Hunger Games: Catching Fire,38,2025-03-25,BR,8
+U085,F094,Deadpool 2,75,2025-03-18,MX,10
+U165,F001,Avatar,12,2025-06-17,AU,15
+U114,F056,Frozen,57,2025-06-28,UK,12
+U115,F048,Black Panther,13,2025-04-05,BR,12
+U005,F082,Fast Five,34,2025-06-17,IN,8
+U141,F101,Wonder Woman,5,2025-03-29,JP,20
+U164,F012,Star Wars: The Last Jedi,26,2025-07-14,MX,15
+U172,F019,The Matrix Reloaded,88,2025-06-01,FR,15
+U210,F034,The Hobbit: The Battle of the Five Armies,23,2025-06-30,FR,15
+U159,F045,Thor: Ragnarok,49,2025-07-05,FR,20
+U030,F082,Fast Five,70,2025-08-21,AU,12
+U091,F012,Star Wars: The Last Jedi,87,2025-07-24,MX,10
+U028,F011,Star Wars: The Force Awakens,15,2025-04-17,BR,12
+U184,F079,Fast & Furious,28,2025-04-02,DE,15
+U049,F082,Fast Five,7,2025-06-14,AU,15
+U201,F031,The Lord of the Rings: The Return of the King,135,2025-05-31,UK,12
+U012,F056,Frozen,98,2025-04-06,BR,8
+U151,F068,The Hunger Games: Mockingjay - Part 2,41,2025-04-09,BR,10
+U189,F011,Star Wars: The Force Awakens,107,2025-07-25,IN,20
+U124,F068,The Hunger Games: Mockingjay - Part 2,39,2025-04-20,JP,12
+U209,F098,Dune,68,2025-04-01,IN,12
+U156,F048,Black Panther,5,2025-07-13,IN,10
+U156,F034,The Hobbit: The Battle of the Five Armies,76,2025-05-15,IN,10
+U249,F012,Star Wars: The Last Jedi,5,2025-06-29,CA,15
+U155,F068,The Hunger Games: Mockingjay - Part 2,92,2025-05-21,MX,12
+U183,F080,2 Fast 2 Furious,99,2025-08-14,AU,15
+U160,F012,Star Wars: The Last Jedi,53,2025-08-28,FR,10
+U034,F066,The Hunger Games: Catching Fire,2,2025-07-12,MX,12
+U083,F082,Fast Five,16,2025-06-04,MX,10
+U147,F079,Fast & Furious,17,2025-08-25,MX,15
+U217,F079,Fast & Furious,25,2025-03-09,MX,10
+U098,F098,Dune,6,2025-03-19,US,10
+U193,F066,The Hunger Games: Catching Fire,93,2025-05-18,DE,12
+U016,F012,Star Wars: The Last Jedi,35,2025-04-27,MX,20
+U209,F019,The Matrix Reloaded,22,2025-04-01,JP,8
+U190,F080,2 Fast 2 Furious,32,2025-05-02,MX,15
+U131,F012,Star Wars: The Last Jedi,25,2025-08-30,US,10
+U100,F079,Fast & Furious,51,2025-08-28,FR,10
+U014,F101,Wonder Woman,38,2025-05-09,AU,8
+U200,F019,The Matrix Reloaded,126,2025-05-02,FR,10
+U140,F045,Thor: Ragnarok,30,2025-04-25,AU,12
+U046,F005,Titanic,125,2025-04-22,CA,8
+U031,F001,Avatar,125,2025-03-16,IN,10
+U068,F098,Dune,16,2025-04-16,JP,20
+U002,F048,Black Panther,118,2025-07-03,CA,8
+U238,F048,Black Panther,7,2025-08-05,US,15
+U161,F045,Thor: Ragnarok,76,2025-08-22,DE,10
+U147,F080,2 Fast 2 Furious,31,2025-06-05,UK,12
+U082,F068,The Hunger Games: Mockingjay - Part 2,106,2025-05-01,CA,10
+U202,F068,The Hunger Games: Mockingjay - Part 2,106,2025-04-15,IN,8
+U104,F005,Titanic,102,2025-06-03,AU,8
+U170,F048,Black Panther,92,2025-05-29,FR,8
+U244,F045,Thor: Ragnarok,16,2025-07-19,BR,8
+U211,F101,Wonder Woman,4,2025-04-04,FR,12
+U232,F045,Thor: Ragnarok,23,2025-08-12,AU,15
+U175,F048,Black Panther,11,2025-06-11,UK,15
+U139,F012,Star Wars: The Last Jedi,51,2025-03-12,MX,12
+U096,F068,The Hunger Games: Mockingjay - Part 2,22,2025-07-14,BR,8
+U076,F031,The Lord of the Rings: The Return of the King,135,2025-05-27,MX,10
+U025,F066,The Hunger Games: Catching Fire,47,2025-07-21,MX,10
+U017,F031,The Lord of the Rings: The Return of the King,116,2025-08-24,AU,10
+U109,F082,Fast Five,6,2025-04-27,MX,12
+U225,F079,Fast & Furious,110,2025-08-18,UK,12
+U040,F101,Wonder Woman,107,2025-07-01,FR,10
+U019,F011,Star Wars: The Force Awakens,39,2025-04-20,DE,10
+U148,F034,The Hobbit: The Battle of the Five Armies,50,2025-05-11,IN,15
+U162,F001,Avatar,95,2025-06-24,FR,15
+U173,F082,Fast Five,8,2025-07-20,US,10
+U159,F005,Titanic,43,2025-08-02,US,20
+U019,F043,Captain America: Civil War,23,2025-07-12,UK,20
+U176,F012,Star Wars: The Last Jedi,6,2025-08-08,UK,10
+U238,F019,The Matrix Reloaded,28,2025-06-11,IN,10
+U008,F065,The Hunger Games,4,2025-04-15,MX,12
+U192,F001,Avatar,2,2025-07-23,DE,20
+U037,F012,Star Wars: The Last Jedi,6,2025-08-26,FR,15
+U003,F080,2 Fast 2 Furious,130,2025-07-26,CA,8
+U002,F056,Frozen,39,2025-08-05,IN,10
+U243,F005,Titanic,125,2025-05-23,AU,12
+U232,F043,Captain America: Civil War,26,2025-04-29,IN,12
+U218,F068,The Hunger Games: Mockingjay - Part 2,19,2025-04-11,CA,8
+U158,F094,Deadpool 2,26,2025-04-24,UK,15
+U205,F056,Frozen,28,2025-03-19,MX,12
+U141,F005,Titanic,6,2025-05-19,UK,15
+U051,F056,Frozen,50,2025-07-08,FR,15
+U172,F034,The Hobbit: The Battle of the Five Armies,13,2025-03-31,DE,15
+U231,F031,The Lord of the Rings: The Return of the King,65,2025-05-26,BR,10
+U158,F012,Star Wars: The Last Jedi,45,2025-08-30,JP,12
+U146,F043,Captain America: Civil War,7,2025-05-25,IN,8
+U081,F034,The Hobbit: The Battle of the Five Armies,3,2025-05-01,IN,12
+U093,F098,Dune,106,2025-08-26,FR,8
+U119,F019,The Matrix Reloaded,38,2025-06-05,DE,12
+U028,F066,The Hunger Games: Catching Fire,2,2025-08-18,JP,10
+U072,F098,Dune,141,2025-07-21,AU,8
+U227,F005,Titanic,3,2025-03-25,US,8
+U162,F101,Wonder Woman,63,2025-08-01,JP,8
+U152,F031,The Lord of the Rings: The Return of the King,135,2025-03-15,MX,15
+U229,F080,2 Fast 2 Furious,17,2025-07-04,CA,15
+U058,F056,Frozen,7,2025-05-19,CA,12
+U131,F005,Titanic,8,2025-06-15,FR,8
+U170,F034,The Hobbit: The Battle of the Five Armies,19,2025-08-10,CA,8
+U036,F019,The Matrix Reloaded,6,2025-04-15,CA,8
+U145,F098,Dune,83,2025-07-07,FR,8
+U195,F065,The Hunger Games,3,2025-05-04,UK,15
+U060,F011,Star Wars: The Force Awakens,41,2025-08-24,AU,10
+U203,F043,Captain America: Civil War,92,2025-06-13,BR,10
+U226,F011,Star Wars: The Force Awakens,98,2025-03-16,FR,8
+U248,F068,The Hunger Games: Mockingjay - Part 2,50,2025-08-15,DE,10
+U068,F056,Frozen,17,2025-07-23,JP,12
+U168,F001,Avatar,64,2025-06-07,JP,12
+U214,F005,Titanic,46,2025-07-16,DE,10
+U233,F034,The Hobbit: The Battle of the Five Armies,30,2025-07-16,IN,8
+U223,F043,Captain America: Civil War,6,2025-07-08,BR,10
+U002,F068,The Hunger Games: Mockingjay - Part 2,106,2025-04-10,BR,10
+U020,F068,The Hunger Games: Mockingjay - Part 2,31,2025-08-17,DE,10
+U048,F066,The Hunger Games: Catching Fire,10,2025-06-06,JP,20
+U031,F034,The Hobbit: The Battle of the Five Armies,24,2025-06-20,FR,12
+U124,F065,The Hunger Games,32,2025-07-06,AU,12
+U166,F079,Fast & Furious,98,2025-03-11,AU,10
+U147,F056,Frozen,64,2025-04-16,CA,10
+U011,F056,Frozen,71,2025-04-12,US,12
+U237,F066,The Hunger Games: Catching Fire,2,2025-07-16,IN,12
+U145,F101,Wonder Woman,28,2025-08-22,DE,15
+U056,F019,The Matrix Reloaded,41,2025-08-08,BR,8
+U044,F034,The Hobbit: The Battle of the Five Armies,2,2025-06-19,JP,12
+U150,F066,The Hunger Games: Catching Fire,13,2025-08-12,MX,10
+U186,F048,Black Panther,84,2025-06-30,JP,15
+U059,F001,Avatar,9,2025-06-12,CA,12
+U052,F068,The Hunger Games: Mockingjay - Part 2,40,2025-07-13,IN,12
+U156,F082,Fast Five,10,2025-04-20,BR,8
+U154,F011,Star Wars: The Force Awakens,2,2025-07-20,MX,12
+U024,F065,The Hunger Games,16,2025-08-21,CA,8
+U139,F101,Wonder Woman,107,2025-08-26,IN,10
+U095,F011,Star Wars: The Force Awakens,94,2025-08-31,MX,8
+U241,F065,The Hunger Games,121,2025-06-11,FR,12
+U190,F056,Frozen,32,2025-03-31,IN,10
+U123,F034,The Hobbit: The Battle of the Five Armies,6,2025-03-27,DE,10
+U140,F079,Fast & Furious,44,2025-05-10,AU,15
+U191,F101,Wonder Woman,32,2025-07-31,MX,10
+U002,F001,Avatar,122,2025-08-20,AU,12
+U081,F079,Fast & Furious,5,2025-06-06,UK,10
+U167,F056,Frozen,32,2025-05-09,DE,8
+U109,F056,Frozen,7,2025-06-07,JP,15
+U175,F001,Avatar,25,2025-04-27,IN,8
+U143,F065,The Hunger Games,80,2025-04-20,FR,10
+U124,F094,Deadpool 2,24,2025-05-23,JP,12
+U181,F001,Avatar,31,2025-04-10,UK,12
+U115,F066,The Hunger Games: Catching Fire,23,2025-03-31,AU,12
+U202,F048,Black Panther,36,2025-07-24,JP,10
+U181,F011,Star Wars: The Force Awakens,89,2025-04-16,IN,8
+U002,F005,Titanic,125,2025-04-12,BR,15
+U112,F005,Titanic,125,2025-03-22,DE,12
+U021,F045,Thor: Ragnarok,69,2025-03-15,IN,15
+U103,F045,Thor: Ragnarok,17,2025-08-20,MX,15
+U247,F045,Thor: Ragnarok,52,2025-03-20,CA,15
+U113,F101,Wonder Woman,30,2025-04-26,MX,10
+U009,F045,Thor: Ragnarok,13,2025-07-14,MX,10
+U158,F066,The Hunger Games: Catching Fire,85,2025-08-25,US,15
+U168,F101,Wonder Woman,2,2025-04-15,UK,10
+U200,F001,Avatar,132,2025-06-04,IN,8
+U052,F068,The Hunger Games: Mockingjay - Part 2,32,2025-03-09,UK,15
+U141,F012,Star Wars: The Last Jedi,44,2025-07-27,JP,15
+U247,F094,Deadpool 2,40,2025-05-02,JP,10
+U117,F001,Avatar,132,2025-07-31,US,8
+U105,F068,The Hunger Games: Mockingjay - Part 2,53,2025-04-02,MX,10
+U076,F048,Black Panther,56,2025-04-04,MX,15
+U225,F080,2 Fast 2 Furious,4,2025-07-31,DE,20
+U248,F001,Avatar,48,2025-07-28,BR,10
+U194,F048,Black Panther,9,2025-07-01,BR,8
+U221,F101,Wonder Woman,71,2025-07-07,UK,15
+U098,F034,The Hobbit: The Battle of the Five Armies,39,2025-08-26,AU,10
+U106,F043,Captain America: Civil War,52,2025-07-16,MX,12
+U214,F094,Deadpool 2,2,2025-05-08,DE,20
+U173,F048,Black Panther,5,2025-03-25,MX,8
+U122,F048,Black Panther,74,2025-06-04,AU,12
+U069,F066,The Hunger Games: Catching Fire,3,2025-08-27,AU,8
+U052,F034,The Hobbit: The Battle of the Five Armies,4,2025-05-06,DE,10
+U052,F034,The Hobbit: The Battle of the Five Armies,2,2025-08-11,FR,15
+U028,F082,Fast Five,89,2025-03-26,BR,10
+U196,F080,2 Fast 2 Furious,86,2025-03-16,BR,20
+U081,F065,The Hunger Games,26,2025-07-31,DE,12
+U196,F068,The Hunger Games: Mockingjay - Part 2,18,2025-05-16,IN,10
+U148,F098,Dune,30,2025-03-19,MX,10
+U123,F080,2 Fast 2 Furious,96,2025-03-14,MX,10
+U221,F066,The Hunger Games: Catching Fire,50,2025-07-01,UK,10
+U118,F048,Black Panther,12,2025-08-29,US,8
+U054,F001,Avatar,12,2025-08-01,UK,10
+U157,F094,Deadpool 2,3,2025-04-22,MX,10
+U069,F065,The Hunger Games,65,2025-08-09,FR,15
+U128,F079,Fast & Furious,80,2025-04-28,IN,12
+U096,F043,Captain America: Civil War,14,2025-06-16,DE,15
+U147,F098,Dune,2,2025-07-31,AU,8
+U185,F094,Deadpool 2,3,2025-05-05,MX,10
+U098,F031,The Lord of the Rings: The Return of the King,135,2025-04-12,CA,12
+U003,F066,The Hunger Games: Catching Fire,16,2025-06-21,BR,10
+U229,F068,The Hunger Games: Mockingjay - Part 2,77,2025-07-20,FR,8
+U077,F094,Deadpool 2,36,2025-07-27,JP,15
+U026,F066,The Hunger Games: Catching Fire,22,2025-03-21,AU,15
+U122,F082,Fast Five,10,2025-06-29,FR,12
+U093,F080,2 Fast 2 Furious,8,2025-07-26,DE,8
+U106,F082,Fast Five,42,2025-06-03,JP,15
+U148,F080,2 Fast 2 Furious,96,2025-04-19,DE,12
+U173,F068,The Hunger Games: Mockingjay - Part 2,54,2025-07-08,BR,15
+U098,F045,Thor: Ragnarok,34,2025-05-18,BR,15
+U038,F066,The Hunger Games: Catching Fire,2,2025-08-16,FR,15
+U157,F056,Frozen,98,2025-06-17,UK,12
+U088,F034,The Hobbit: The Battle of the Five Armies,87,2025-05-25,FR,8
+U182,F094,Deadpool 2,12,2025-08-07,IN,12
+U114,F043,Captain America: Civil War,92,2025-08-03,MX,12
+U106,F066,The Hunger Games: Catching Fire,42,2025-04-22,US,15
+U061,F094,Deadpool 2,32,2025-09-01,UK,8
+U102,F082,Fast Five,61,2025-03-30,UK,8
+U122,F080,2 Fast 2 Furious,108,2025-03-19,US,15
+U135,F005,Titanic,66,2025-04-01,DE,15
+U022,F001,Avatar,9,2025-05-24,AU,20
+U073,F019,The Matrix Reloaded,26,2025-08-13,CA,15
+U215,F066,The Hunger Games: Catching Fire,93,2025-03-13,US,12
+U221,F048,Black Panther,15,2025-07-05,BR,12
+U139,F094,Deadpool 2,17,2025-07-24,BR,15
+U243,F080,2 Fast 2 Furious,36,2025-04-20,JP,12
+U162,F056,Frozen,28,2025-06-25,MX,12
+U137,F012,Star Wars: The Last Jedi,41,2025-06-02,BR,8
+U207,F005,Titanic,125,2025-06-27,DE,10
+U067,F098,Dune,19,2025-05-22,US,15
+U209,F098,Dune,9,2025-06-02,DE,10
+U003,F065,The Hunger Games,13,2025-07-06,DE,10
+U111,F012,Star Wars: The Last Jedi,87,2025-08-05,AU,10
+U141,F043,Captain America: Civil War,47,2025-04-23,IN,10
+U112,F001,Avatar,22,2025-05-08,CA,10
+U166,F001,Avatar,111,2025-06-10,AU,10
+U109,F034,The Hobbit: The Battle of the Five Armies,107,2025-07-16,JP,20
+U176,F094,Deadpool 2,70,2025-05-17,MX,12
+U106,F031,The Lord of the Rings: The Return of the King,135,2025-03-23,CA,8
+U029,F019,The Matrix Reloaded,18,2025-08-11,BR,8
+U160,F065,The Hunger Games,85,2025-04-23,FR,12
+U013,F080,2 Fast 2 Furious,40,2025-03-11,CA,10
+U073,F094,Deadpool 2,69,2025-04-07,BR,15
+U060,F005,Titanic,81,2025-04-13,US,12
+U088,F079,Fast & Furious,83,2025-05-24,BR,15
+U119,F011,Star Wars: The Force Awakens,62,2025-05-29,UK,10
+U244,F098,Dune,13,2025-03-20,DE,12
+U019,F080,2 Fast 2 Furious,51,2025-07-04,CA,10
+U216,F094,Deadpool 2,75,2025-06-11,US,20
+U197,F034,The Hobbit: The Battle of the Five Armies,109,2025-06-12,BR,12
+U009,F031,The Lord of the Rings: The Return of the King,2,2025-07-01,UK,10
+U054,F065,The Hunger Games,10,2025-06-13,DE,10
+U041,F011,Star Wars: The Force Awakens,8,2025-07-24,MX,8
+U124,F012,Star Wars: The Last Jedi,56,2025-04-25,FR,12
+U222,F031,The Lord of the Rings: The Return of the King,114,2025-04-03,AU,10
+U084,F101,Wonder Woman,12,2025-04-17,DE,12
+U102,F034,The Hobbit: The Battle of the Five Armies,38,2025-03-08,US,10
+U177,F065,The Hunger Games,111,2025-08-29,JP,12
+U198,F005,Titanic,82,2025-05-08,CA,15
+U176,F045,Thor: Ragnarok,35,2025-05-31,US,15
+U166,F098,Dune,62,2025-09-01,MX,15
+U033,F065,The Hunger Games,42,2025-05-04,FR,8
+U202,F043,Captain America: Civil War,16,2025-06-26,AU,8
+U097,F043,Captain America: Civil War,38,2025-04-09,DE,12
+U125,F019,The Matrix Reloaded,73,2025-07-27,DE,10
+U126,F031,The Lord of the Rings: The Return of the King,135,2025-07-29,CA,10
+U083,F019,The Matrix Reloaded,63,2025-05-15,JP,8
+U142,F066,The Hunger Games: Catching Fire,66,2025-03-23,MX,10
+U076,F094,Deadpool 2,6,2025-07-22,FR,8
+U199,F068,The Hunger Games: Mockingjay - Part 2,32,2025-06-11,CA,15
+U159,F043,Captain America: Civil War,2,2025-08-11,AU,10
+U017,F080,2 Fast 2 Furious,18,2025-06-13,AU,12
+U128,F080,2 Fast 2 Furious,84,2025-04-14,JP,8
+U105,F048,Black Panther,118,2025-04-03,UK,12
+U018,F011,Star Wars: The Force Awakens,6,2025-04-08,CA,10
+U052,F082,Fast Five,22,2025-07-08,AU,15
+U147,F001,Avatar,106,2025-08-21,BR,15
+U180,F056,Frozen,11,2025-05-10,US,10
+U156,F005,Titanic,50,2025-03-09,AU,20
+U238,F005,Titanic,82,2025-07-03,US,20
+U191,F079,Fast & Furious,53,2025-06-08,US,15
+U069,F068,The Hunger Games: Mockingjay - Part 2,11,2025-03-16,UK,15
+U020,F031,The Lord of the Rings: The Return of the King,29,2025-07-16,UK,10
+U060,F080,2 Fast 2 Furious,99,2025-06-12,AU,12
+U169,F034,The Hobbit: The Battle of the Five Armies,44,2025-07-29,CA,8
+U143,F079,Fast & Furious,2,2025-04-02,JP,8
+U118,F079,Fast & Furious,80,2025-04-01,CA,20
+U141,F001,Avatar,2,2025-07-13,FR,10
+U137,F045,Thor: Ragnarok,61,2025-06-27,FR,15
+U141,F048,Black Panther,13,2025-06-09,IN,15
+U111,F048,Black Panther,118,2025-08-08,AU,15
+U055,F001,Avatar,30,2025-07-24,DE,20
+U116,F019,The Matrix Reloaded,24,2025-06-15,US,10
+U073,F045,Thor: Ragnarok,7,2025-03-10,MX,8
+U228,F012,Star Wars: The Last Jedi,15,2025-03-07,DE,10
+U055,F048,Black Panther,118,2025-03-11,DE,8
+U131,F080,2 Fast 2 Furious,130,2025-07-30,JP,8
+U010,F019,The Matrix Reloaded,28,2025-06-05,CA,10
+U094,F056,Frozen,29,2025-05-08,AU,15
+U077,F005,Titanic,80,2025-07-30,IN,12
+U056,F005,Titanic,125,2025-05-28,BR,10
+U212,F056,Frozen,44,2025-03-30,JP,12
+U010,F056,Frozen,24,2025-06-11,UK,10
+U236,F048,Black Panther,31,2025-06-03,IN,8
+U223,F082,Fast Five,52,2025-05-03,JP,15
+U163,F001,Avatar,2,2025-03-19,DE,12
+U082,F080,2 Fast 2 Furious,62,2025-07-28,CA,15
+U179,F034,The Hobbit: The Battle of the Five Armies,23,2025-04-14,US,8
+U101,F019,The Matrix Reloaded,99,2025-08-05,JP,15
+U057,F079,Fast & Furious,5,2025-05-19,IN,12
+U087,F005,Titanic,55,2025-07-05,JP,12
+U141,F001,Avatar,43,2025-05-12,UK,12
+U112,F098,Dune,72,2025-04-09,BR,15
+U125,F001,Avatar,4,2025-08-19,JP,12
+U158,F068,The Hunger Games: Mockingjay - Part 2,45,2025-05-08,AU,12
+U199,F079,Fast & Furious,46,2025-05-27,JP,20
+U172,F079,Fast & Furious,46,2025-06-22,FR,15
+U083,F043,Captain America: Civil War,42,2025-08-05,US,10
+U044,F043,Captain America: Civil War,51,2025-08-10,BR,15
+U113,F011,Star Wars: The Force Awakens,95,2025-05-04,AU,10
+U040,F005,Titanic,19,2025-04-03,US,10
+U159,F098,Dune,122,2025-05-18,US,12
+U206,F082,Fast Five,30,2025-05-23,BR,20
+U085,F031,The Lord of the Rings: The Return of the King,5,2025-07-21,AU,20
+U134,F094,Deadpool 2,2,2025-07-24,BR,10
+U037,F101,Wonder Woman,21,2025-06-10,JP,12
+U135,F011,Star Wars: The Force Awakens,89,2025-05-10,CA,10
+U052,F045,Thor: Ragnarok,55,2025-05-14,US,20
+U242,F101,Wonder Woman,83,2025-03-23,IN,20
+U170,F043,Captain America: Civil War,33,2025-04-02,US,12
+U227,F001,Avatar,38,2025-05-04,IN,15
+U182,F082,Fast Five,7,2025-05-25,BR,15
+U137,F005,Titanic,24,2025-04-22,AU,12
+U118,F080,2 Fast 2 Furious,36,2025-03-11,US,8
+U136,F012,Star Wars: The Last Jedi,4,2025-05-30,BR,10
+U041,F101,Wonder Woman,13,2025-06-02,FR,12
+U078,F034,The Hobbit: The Battle of the Five Armies,49,2025-07-12,DE,12
+U161,F094,Deadpool 2,49,2025-06-13,US,10
+U243,F094,Deadpool 2,75,2025-05-02,CA,20
+U101,F098,Dune,141,2025-03-28,IN,8
+U174,F045,Thor: Ragnarok,46,2025-08-13,AU,12
+U147,F098,Dune,38,2025-06-23,DE,12
+U085,F019,The Matrix Reloaded,63,2025-07-22,CA,12
+U036,F056,Frozen,75,2025-07-22,AU,12
+U080,F068,The Hunger Games: Mockingjay - Part 2,6,2025-04-09,IN,10
+U250,F098,Dune,37,2025-08-20,JP,8
+U082,F005,Titanic,114,2025-07-26,MX,12
+U031,F066,The Hunger Games: Catching Fire,22,2025-05-26,CA,12
+U196,F048,Black Panther,50,2025-06-19,IN,8
+U191,F094,Deadpool 2,33,2025-04-13,AU,15
+U048,F101,Wonder Woman,10,2025-08-09,JP,10
+U146,F045,Thor: Ragnarok,20,2025-05-04,JP,12
+U176,F101,Wonder Woman,21,2025-06-05,UK,15
+U123,F098,Dune,2,2025-07-12,JP,8
+U167,F043,Captain America: Civil War,2,2025-04-22,IN,8
+U036,F066,The Hunger Games: Catching Fire,82,2025-04-24,AU,15
+U196,F101,Wonder Woman,17,2025-05-14,IN,12
+U172,F031,The Lord of the Rings: The Return of the King,49,2025-04-27,UK,12
+U245,F019,The Matrix Reloaded,22,2025-08-10,BR,15
+U222,F019,The Matrix Reloaded,126,2025-05-08,IN,15
+U011,F045,Thor: Ragnarok,13,2025-06-11,FR,20
+U241,F056,Frozen,27,2025-08-05,MX,12
+U225,F011,Star Wars: The Force Awakens,117,2025-07-17,UK,10
+U212,F011,Star Wars: The Force Awakens,107,2025-05-07,MX,10
+U189,F011,Star Wars: The Force Awakens,12,2025-07-26,IN,8
+U162,F011,Star Wars: The Force Awakens,94,2025-04-23,DE,12
+U227,F012,Star Wars: The Last Jedi,26,2025-05-18,BR,10
+U076,F045,Thor: Ragnarok,29,2025-03-19,MX,20
+U119,F019,The Matrix Reloaded,9,2025-03-29,MX,12
+U200,F056,Frozen,4,2025-08-31,MX,12
+U106,F048,Black Panther,76,2025-06-29,US,10
+U152,F031,The Lord of the Rings: The Return of the King,46,2025-06-30,UK,8
+U178,F066,The Hunger Games: Catching Fire,26,2025-04-06,UK,8
+U116,F043,Captain America: Civil War,60,2025-03-27,MX,10
+U187,F068,The Hunger Games: Mockingjay - Part 2,76,2025-08-09,CA,8
+U098,F011,Star Wars: The Force Awakens,10,2025-04-18,FR,12
+U169,F098,Dune,66,2025-04-16,CA,15
+U183,F011,Star Wars: The Force Awakens,8,2025-06-21,DE,15
+U197,F019,The Matrix Reloaded,87,2025-05-18,CA,12
+U034,F031,The Lord of the Rings: The Return of the King,72,2025-03-06,JP,10
+U004,F019,The Matrix Reloaded,126,2025-07-11,BR,15
+U002,F045,Thor: Ragnarok,3,2025-07-10,AU,15
+U169,F065,The Hunger Games,3,2025-06-30,IN,8
+U154,F045,Thor: Ragnarok,14,2025-03-07,AU,15
+U072,F045,Thor: Ragnarok,13,2025-08-13,MX,10
+U054,F011,Star Wars: The Force Awakens,16,2025-04-22,CA,15
+U090,F011,Star Wars: The Force Awakens,117,2025-04-12,US,20
+U215,F045,Thor: Ragnarok,12,2025-05-21,FR,8
+U013,F082,Fast Five,14,2025-06-20,CA,15
+U073,F045,Thor: Ragnarok,64,2025-08-22,JP,12
+U144,F066,The Hunger Games: Catching Fire,27,2025-06-30,JP,20
+U010,F005,Titanic,93,2025-05-21,FR,10
+U098,F005,Titanic,4,2025-06-23,MX,15
+U121,F098,Dune,47,2025-04-06,DE,8
+U106,F068,The Hunger Games: Mockingjay - Part 2,2,2025-04-28,AU,10
+U028,F056,Frozen,3,2025-08-14,MX,8
+U124,F045,Thor: Ragnarok,90,2025-05-18,IN,20
+U082,F094,Deadpool 2,5,2025-07-18,JP,15
+U091,F098,Dune,53,2025-08-10,JP,15
+U187,F065,The Hunger Games,32,2025-07-10,CA,20
+U060,F012,Star Wars: The Last Jedi,18,2025-04-24,US,8
+U120,F082,Fast Five,89,2025-04-28,JP,10
+U106,F011,Star Wars: The Force Awakens,2,2025-05-30,FR,8
+U164,F031,The Lord of the Rings: The Return of the King,73,2025-03-08,AU,10
+U066,F005,Titanic,125,2025-05-23,DE,10
+U083,F101,Wonder Woman,43,2025-04-04,FR,10
+U186,F056,Frozen,98,2025-08-10,US,10
+U050,F048,Black Panther,3,2025-05-31,BR,8
+U205,F011,Star Wars: The Force Awakens,31,2025-08-18,CA,8
+U161,F019,The Matrix Reloaded,18,2025-07-21,FR,8
+U209,F079,Fast & Furious,73,2025-03-20,MX,20
+U186,F048,Black Panther,118,2025-07-26,MX,15
+U148,F048,Black Panther,17,2025-06-04,UK,20
+U072,F101,Wonder Woman,56,2025-05-31,IN,10
+U216,F066,The Hunger Games: Catching Fire,10,2025-07-30,JP,10
+U153,F082,Fast Five,37,2025-05-23,FR,15
+U070,F079,Fast & Furious,34,2025-03-28,BR,10
+U096,F019,The Matrix Reloaded,126,2025-05-22,AU,10
+U045,F082,Fast Five,41,2025-06-09,US,10
+U234,F005,Titanic,26,2025-06-27,MX,8
+U124,F068,The Hunger Games: Mockingjay - Part 2,6,2025-04-14,AU,10
+U124,F068,The Hunger Games: Mockingjay - Part 2,8,2025-05-24,FR,10
+U224,F082,Fast Five,11,2025-07-16,CA,12
+U010,F019,The Matrix Reloaded,18,2025-06-13,MX,8
+U080,F011,Star Wars: The Force Awakens,111,2025-08-28,JP,10
+U086,F019,The Matrix Reloaded,51,2025-03-17,UK,15
+U169,F012,Star Wars: The Last Jedi,32,2025-03-11,JP,8
+U164,F031,The Lord of the Rings: The Return of the King,8,2025-05-27,AU,10
+U071,F080,2 Fast 2 Furious,127,2025-05-26,BR,15
+U070,F098,Dune,90,2025-04-15,DE,8
+U246,F045,Thor: Ragnarok,3,2025-07-27,MX,8
+U139,F043,Captain America: Civil War,56,2025-07-24,FR,10
+U242,F012,Star Wars: The Last Jedi,34,2025-07-30,AU,10
+U080,F045,Thor: Ragnarok,3,2025-05-31,MX,12
+U034,F101,Wonder Woman,32,2025-07-04,US,15
+U014,F005,Titanic,41,2025-06-23,IN,8
+U153,F056,Frozen,8,2025-08-14,BR,12
+U080,F048,Black Panther,118,2025-04-25,MX,12
+U237,F019,The Matrix Reloaded,119,2025-07-29,CA,8
+U206,F019,The Matrix Reloaded,69,2025-03-30,BR,12
+U165,F019,The Matrix Reloaded,39,2025-07-04,AU,10
+U037,F045,Thor: Ragnarok,23,2025-05-11,FR,10
+U180,F048,Black Panther,62,2025-05-28,BR,8
+U017,F065,The Hunger Games,47,2025-04-03,FR,10
+U217,F066,The Hunger Games: Catching Fire,2,2025-05-17,FR,10
+U033,F068,The Hunger Games: Mockingjay - Part 2,38,2025-04-01,IN,15
+U204,F082,Fast Five,73,2025-05-28,MX,8
+U203,F012,Star Wars: The Last Jedi,26,2025-07-20,BR,10
+U106,F034,The Hobbit: The Battle of the Five Armies,2,2025-08-11,AU,10
+U250,F065,The Hunger Games,93,2025-06-12,UK,15
+U209,F056,Frozen,11,2025-06-24,IN,12
+U088,F080,2 Fast 2 Furious,19,2025-08-30,AU,12
+U172,F005,Titanic,11,2025-07-30,BR,15
+U153,F019,The Matrix Reloaded,25,2025-05-28,MX,15
+U114,F066,The Hunger Games: Catching Fire,65,2025-05-23,IN,10
+U028,F045,Thor: Ragnarok,32,2025-06-11,FR,12
+U170,F011,Star Wars: The Force Awakens,13,2025-03-29,AU,15
+U228,F056,Frozen,98,2025-08-15,US,20
+U170,F098,Dune,141,2025-06-29,MX,15
+U158,F056,Frozen,98,2025-06-28,AU,10
+U225,F048,Black Panther,16,2025-05-21,JP,8
+U174,F012,Star Wars: The Last Jedi,26,2025-06-25,FR,10
+U150,F101,Wonder Woman,107,2025-08-09,MX,15
+U033,F012,Star Wars: The Last Jedi,64,2025-03-21,FR,10
+U248,F011,Star Wars: The Force Awakens,2,2025-03-06,MX,10
+U092,F082,Fast Five,3,2025-05-17,US,15
+U180,F056,Frozen,30,2025-06-14,FR,10
+U104,F001,Avatar,132,2025-06-25,MX,15
+U045,F065,The Hunger Games,46,2025-04-10,AU,10
+U216,F043,Captain America: Civil War,31,2025-06-20,CA,10
+U224,F098,Dune,7,2025-04-09,US,10
+U005,F098,Dune,75,2025-07-08,IN,15
+U035,F005,Titanic,107,2025-04-10,IN,8
+U229,F045,Thor: Ragnarok,21,2025-06-22,JP,8
+U131,F079,Fast & Furious,83,2025-07-25,BR,20
+U058,F066,The Hunger Games: Catching Fire,93,2025-06-22,JP,8
+U128,F034,The Hobbit: The Battle of the Five Armies,12,2025-07-12,DE,12
+U140,F056,Frozen,36,2025-06-07,US,12
+U146,F065,The Hunger Games,20,2025-06-08,UK,10
+U247,F005,Titanic,98,2025-04-11,MX,12
+U193,F094,Deadpool 2,32,2025-07-03,MX,10
+U228,F045,Thor: Ragnarok,45,2025-03-28,AU,12
+U190,F005,Titanic,99,2025-08-28,MX,10
+U080,F045,Thor: Ragnarok,22,2025-03-19,FR,12
+U003,F065,The Hunger Games,121,2025-06-30,MX,8
+U147,F048,Black Panther,44,2025-06-21,FR,12
+U205,F012,Star Wars: The Last Jedi,7,2025-05-19,CA,8
+U237,F045,Thor: Ragnarok,53,2025-05-22,JP,10
+U162,F065,The Hunger Games,95,2025-08-01,CA,10
+U169,F012,Star Wars: The Last Jedi,16,2025-08-12,US,8
+U022,F098,Dune,137,2025-07-13,UK,15
+U072,F094,Deadpool 2,75,2025-04-08,JP,10
+U220,F094,Deadpool 2,12,2025-03-09,UK,20
+U233,F056,Frozen,98,2025-04-13,BR,20
+U045,F094,Deadpool 2,5,2025-09-01,AU,12
+U205,F068,The Hunger Games: Mockingjay - Part 2,11,2025-03-14,FR,8
+U248,F098,Dune,14,2025-08-05,CA,10
+U193,F079,Fast & Furious,112,2025-06-12,AU,15
+U186,F066,The Hunger Games: Catching Fire,49,2025-04-28,JP,10
+U089,F011,Star Wars: The Force Awakens,9,2025-08-17,DE,8
+U030,F011,Star Wars: The Force Awakens,33,2025-04-17,BR,12
+U078,F065,The Hunger Games,57,2025-07-20,AU,15
+U181,F001,Avatar,5,2025-07-05,DE,15
+U223,F079,Fast & Furious,112,2025-03-09,DE,8
+U115,F001,Avatar,107,2025-08-26,FR,12
+U175,F011,Star Wars: The Force Awakens,41,2025-03-30,MX,10
+U245,F079,Fast & Furious,112,2025-08-09,DE,10
+U069,F082,Fast Five,24,2025-05-10,JP,15
+U198,F034,The Hobbit: The Battle of the Five Armies,109,2025-08-25,JP,10
+U134,F048,Black Panther,65,2025-08-26,CA,10
+U003,F101,Wonder Woman,53,2025-03-23,US,8
+U135,F082,Fast Five,8,2025-08-28,BR,15
+U186,F012,Star Wars: The Last Jedi,87,2025-05-09,AU,15
+U159,F005,Titanic,34,2025-03-20,JP,12
+U214,F031,The Lord of the Rings: The Return of the King,11,2025-08-06,UK,15
+U031,F005,Titanic,2,2025-08-07,CA,8
+U196,F056,Frozen,40,2025-04-22,UK,10
+U065,F012,Star Wars: The Last Jedi,32,2025-07-03,UK,10
+U237,F094,Deadpool 2,47,2025-06-23,FR,8
+U200,F005,Titanic,125,2025-05-15,US,10
+U086,F011,Star Wars: The Force Awakens,4,2025-05-11,DE,20
+U018,F065,The Hunger Games,79,2025-04-26,JP,8
+U166,F065,The Hunger Games,12,2025-04-02,CA,10
+U111,F031,The Lord of the Rings: The Return of the King,131,2025-08-10,UK,10
+U184,F094,Deadpool 2,64,2025-04-01,US,10
+U147,F094,Deadpool 2,29,2025-06-28,US,20
+U039,F101,Wonder Woman,66,2025-03-15,IN,10
+U180,F048,Black Panther,22,2025-06-14,JP,10
+U182,F065,The Hunger Games,38,2025-07-06,IN,15
+U187,F005,Titanic,107,2025-07-22,AU,8
+U245,F065,The Hunger Games,37,2025-04-06,JP,10
+U092,F048,Black Panther,26,2025-08-27,DE,10
+U162,F005,Titanic,42,2025-06-07,MX,12
+U088,F005,Titanic,110,2025-07-01,DE,20
+U046,F080,2 Fast 2 Furious,26,2025-03-16,IN,15
+U077,F001,Avatar,12,2025-04-02,FR,10
+U227,F019,The Matrix Reloaded,78,2025-04-23,CA,15
+U007,F056,Frozen,85,2025-05-06,BR,8
+U203,F080,2 Fast 2 Furious,6,2025-08-17,DE,8
+U248,F019,The Matrix Reloaded,17,2025-03-10,US,10
+U087,F011,Star Wars: The Force Awakens,8,2025-06-17,UK,10
+U168,F068,The Hunger Games: Mockingjay - Part 2,22,2025-07-01,MX,12
+U149,F034,The Hobbit: The Battle of the Five Armies,32,2025-03-24,US,12
+U126,F101,Wonder Woman,73,2025-07-04,JP,20
+U180,F098,Dune,74,2025-03-09,CA,12
+U232,F012,Star Wars: The Last Jedi,42,2025-03-30,BR,12
+U214,F056,Frozen,21,2025-03-22,UK,8
+U153,F045,Thor: Ragnarok,82,2025-05-01,UK,8
+U110,F048,Black Panther,37,2025-08-26,IN,12
+U250,F056,Frozen,98,2025-07-23,CA,10
+U247,F031,The Lord of the Rings: The Return of the King,67,2025-03-17,JP,15
+U017,F082,Fast Five,6,2025-05-15,CA,8
+U044,F043,Captain America: Civil War,51,2025-07-25,CA,8
+U237,F056,Frozen,19,2025-03-16,CA,10
+U217,F045,Thor: Ragnarok,52,2025-06-10,CA,10
+U125,F005,Titanic,4,2025-03-07,US,8
+U023,F056,Frozen,9,2025-05-17,IN,15
+U203,F065,The Hunger Games,117,2025-08-30,CA,8
+U164,F094,Deadpool 2,9,2025-07-17,BR,12
+U241,F066,The Hunger Games: Catching Fire,84,2025-08-09,US,10
+U184,F065,The Hunger Games,19,2025-08-09,UK,8
+U201,F012,Star Wars: The Last Jedi,44,2025-06-03,IN,10
+U061,F031,The Lord of the Rings: The Return of the King,79,2025-04-05,MX,15
+U159,F043,Captain America: Civil War,33,2025-07-22,MX,10
+U198,F031,The Lord of the Rings: The Return of the King,24,2025-05-15,US,15
+U204,F098,Dune,16,2025-08-28,BR,8
+U041,F011,Star Wars: The Force Awakens,2,2025-03-19,FR,15
+U112,F094,Deadpool 2,13,2025-05-30,JP,10
+U195,F019,The Matrix Reloaded,66,2025-03-17,UK,12
+U237,F080,2 Fast 2 Furious,130,2025-04-20,CA,12
+U125,F068,The Hunger Games: Mockingjay - Part 2,106,2025-04-04,UK,20
+U185,F019,The Matrix Reloaded,91,2025-08-04,JP,10
+U051,F048,Black Panther,91,2025-05-03,UK,8
+U026,F034,The Hobbit: The Battle of the Five Armies,59,2025-06-19,AU,8
+U057,F005,Titanic,18,2025-07-04,JP,15
+U228,F079,Fast & Furious,112,2025-04-12,AU,12
+U117,F066,The Hunger Games: Catching Fire,51,2025-06-13,FR,15
+U185,F031,The Lord of the Rings: The Return of the King,55,2025-08-14,FR,10
+U052,F048,Black Panther,6,2025-04-07,US,10
+U016,F094,Deadpool 2,22,2025-04-09,UK,8
+U118,F079,Fast & Furious,34,2025-04-18,FR,20
+U076,F045,Thor: Ragnarok,89,2025-04-15,JP,12
+U148,F080,2 Fast 2 Furious,51,2025-05-03,UK,20
+U134,F065,The Hunger Games,28,2025-04-30,JP,10
+U119,F094,Deadpool 2,75,2025-03-09,IN,12
+U064,F034,The Hobbit: The Battle of the Five Armies,6,2025-05-28,IN,12
+U229,F056,Frozen,26,2025-04-13,JP,10
+U107,F011,Star Wars: The Force Awakens,2,2025-03-16,BR,15
+U130,F011,Star Wars: The Force Awakens,78,2025-06-22,MX,20
+U208,F082,Fast Five,89,2025-06-29,BR,15
+U143,F101,Wonder Woman,17,2025-08-30,IN,15
+U034,F043,Captain America: Civil War,89,2025-05-20,AU,10
+U024,F101,Wonder Woman,18,2025-07-06,DE,10
+U118,F056,Frozen,98,2025-08-02,US,20
+U119,F098,Dune,98,2025-06-17,CA,8
+U095,F019,The Matrix Reloaded,102,2025-08-15,US,15
+U019,F001,Avatar,2,2025-08-29,FR,15
+U076,F079,Fast & Furious,112,2025-05-14,JP,12
+U204,F031,The Lord of the Rings: The Return of the King,87,2025-08-28,UK,20
+U086,F011,Star Wars: The Force Awakens,21,2025-07-15,FR,10
+U029,F001,Avatar,116,2025-06-07,BR,10
+U094,F043,Captain America: Civil War,15,2025-04-19,MX,8
+U144,F031,The Lord of the Rings: The Return of the King,135,2025-04-10,FR,10
+U030,F065,The Hunger Games,7,2025-08-01,AU,10
+U195,F034,The Hobbit: The Battle of the Five Armies,66,2025-05-27,FR,10
+U129,F079,Fast & Furious,43,2025-05-15,US,15
+U089,F019,The Matrix Reloaded,6,2025-07-08,MX,20
+U032,F065,The Hunger Games,16,2025-07-20,MX,8
+U116,F045,Thor: Ragnarok,2,2025-06-08,UK,10
+U227,F019,The Matrix Reloaded,39,2025-03-28,UK,20
+U046,F012,Star Wars: The Last Jedi,15,2025-03-25,UK,8
+U029,F098,Dune,64,2025-07-11,CA,8
