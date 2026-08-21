@@ -6,7 +6,7 @@ This repository contains a coding sample focused on analyzing film performance, 
 
 The project demonstrates an end-to-end data analysis workflow, including data loading, cleaning, SQL-based aggregation, descriptive analysis, feature engineering, predictive modeling, model evaluation, and business interpretation. The analysis is organized in a Jupyter notebook with comments and markdown explanations throughout.
 
-This sample was prepared as a data ETL and analysis coding sample for a Data Analyst role. It is intended to show practical experience working with structured datasets, querying data, building reproducible Python workflows, and translating technical results into clear findings for non-technical stakeholders.  
+It is intended to show practical experience working with structured datasets, querying data, building reproducible Python workflows, and translating technical results into clear findings for non-technical stakeholders.  
 <br>
 
 ## Project Objectives
